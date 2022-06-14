@@ -71,13 +71,13 @@ func main() {
 	fmt.Println("Popularity as of", time.Now().Format("2006-01-02"))
 	fmt.Println()
 
-	fmt.Printf("## %v files\n\n", len(fileURLs))
+	fmt.Printf("## Files\n\nTotal: %v\n\n", len(fileURLs))
 	for fileURL := range fileURLs {
 		fmt.Printf("  %v\n", fileURL)
 	}
 
 	fmt.Println()
-	fmt.Printf("## %v repos\n\n", len(repoURLs))
+	fmt.Printf("## Repos\n\nTotal: %v\n\n", len(repoURLs))
 	for repoURL, files := range repoURLs {
 		if files > 1 {
 			fmt.Printf("  %v # %v files\n", repoURL, files)
