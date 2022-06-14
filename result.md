@@ -1,6 +1,7 @@
 Popularity as of 2022-06-14
 
-916 files:
+## 916 files
+
 - https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/kdeglobals/setup.elv
 - https://github.com/haxscramper/hack/blob/4b3672348cef91bb8e9441d29c127e73be5d4b69/testing/nim/wraptests/callback_override/run.elv
 - https://github.com/tcarrio/elvish-modules/blob/748c266c8af7211c4aab1a248b5c11c595d0a9d9/paths.elv
@@ -918,7 +919,8 @@ Popularity as of 2022-06-14
 - https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/if-with-pipeline.elv
 - https://github.com/jarun/nnn/blob/15243186c5525ef6eb4bf065b27bc6062ee98651/misc/quitcd/quitcd.elv
 
-224 repos:
+## 224 repos
+
 - https://github.com/rohankumardubey/zoxide
 - https://github.com/gretel/dotfiles # 3 files
 - https://github.com/lovebaihezi/.elvish # 3 files
