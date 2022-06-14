@@ -6,5 +6,5 @@ GitHub. Run with:
 ```sh
 # Generate a personal access token in https://github.com/settings/tokens
 export GITHUB_TOKEN=foo
-go run . | tee result.txt
+go run . | tee result.md
 ```

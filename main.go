@@ -68,6 +68,9 @@ func main() {
 		opt.Page = resp.NextPage
 	}
 
+	fmt.Println("Popularity as of", time.Now().Format("2006-01-02"))
+	fmt.Println()
+
 	fmt.Println(len(fileURLs), "files:")
 	for fileURL := range fileURLs {
 		fmt.Printf("  %v\n", fileURL)

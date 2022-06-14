@@ -1,0 +1,1145 @@
+Popularity as of 2022-06-14
+
+916 files:
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/kdeglobals/setup.elv
+- https://github.com/haxscramper/hack/blob/4b3672348cef91bb8e9441d29c127e73be5d4b69/testing/nim/wraptests/callback_override/run.elv
+- https://github.com/tcarrio/elvish-modules/blob/748c266c8af7211c4aab1a248b5c11c595d0a9d9/paths.elv
+- https://github.com/tcarrio/elvish-modules/blob/cf3aceb0f3bcab2a7d43b107870695510dcf87b5/volta.elv
+- https://github.com/silver-prompt/elvish/blob/6b8bad59a2010c445e0ae47600d3e15cb8209581/silver.elv
+- https://github.com/taw/100-languages-speedrun/blob/84240d5cb64ad6b1513dc2f4c54e18c5377e70c3/episode-48-elvish/hello.elv
+- https://github.com/occivink/config/blob/5c2700ad2d40d72e32af76e6e5e16a3664b14cc1/.config/elvish/lib/find.elv
+- https://github.com/alloy-d/dotfiles/blob/c3d4e062007d82e6872612759ac6d56545d259a5/.config/elvish/lib/direnv.elv
+- https://github.com/jdgoal512/dotfiles/blob/0c79e89e85faaf4e07288511f6dc8631804dbdbf/saved_config/elvish/lib/time.elv
+- https://github.com/frantic1048/Vanilla/blob/99d49eb7c7442c1fc88753801cb4dd50a3b75f07/bin/bin/fffcoverart.elv
+- https://github.com/frantic1048/Vanilla/blob/e659c9e27bebe00be7312aec76a22ffd6e811815/elvish/.elvish/rc.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/redirect-to-file.elv
+- https://github.com/chlorm/elvish-stl/blob/2f43f4ab7cc4478b086d31a3cc9d877ca02a4be7/os.elv
+- https://github.com/chlorm/elvish-tmpfs/blob/9243356e109e637333ee9310a26712c05a33b605/automount.elv
+- https://github.com/Plottel/DeftEngine/blob/16966f17334db606294aaed3a12f911bc456cffd/DeftEngine/obj/.cache/build/c1f4q25q.fue/hq4npdtk.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/fn-with-option-map.elv
+- https://github.com/chlorm/elvish-util-wrappers/blob/7add2b4a476c9ac73117bf442364e8b3f67c2654/su.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/ea402d751dcde6ad1642ac61dca2265dbfc874ec/src/test/resources/com/github/sblundy/elvish/lang/assignment-var-form-err-no-space-after.elv
+- https://github.com/dglmoore/elvish-libs/blob/626dbb65407e88b825ce1596c301fa9d8cf61e54/aws.elv
+- https://github.com/haxscramper/hack/blob/7790bcb4c86b2a2518414611b87cace449f97ff1/testing/elvish/git-selector.elv
+- https://github.com/ilmaria/dotfiles/blob/862c1949a8ce148a562dded2bba75b04e5c64e81/.elvish/lib/git-prompt.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/use-mixed.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/tilda.elv
+- https://github.com/eikek/dotfiles/blob/bc49ee24933b1d7fbb4de4a78c9b6348edc55b6e/elvish/.elvish/rc.elv
+- https://github.com/muesli/elvish-libs/blob/db1cf65c17e7c59930a3218ed29e2494b7d603ef/theme/powerline.elv
+- https://github.com/UdonNoodleSoup/dotfiles/blob/5b7bb1519bf3d95a06f96053225e37cf6116a622/elvish/lib/github.com/zzamboni/elvish-modules/nix.elv
+- https://github.com/josugoar/dotfiles/blob/14aee4ebacde80ca60b8c2990c8faf81792d6bac/starship/dot-starship_completions.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/assignment-indexed.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/assignment-chained-range.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/delete-env-ns-variable.elv
+- https://github.com/tcarrio/elvish-modules/blob/c49b12afd03f6ecf4c2626cb41d2891c2f500e11/pulumi.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishRefactoringTest-rename-fn-after.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/escaped-double-quoted-string-e.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/compound-expression-double-quoted-first.elv
+- https://github.com/trieloff/githop/blob/408a74e8a741c865023966fc778ebfe5a556acdb/rc.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/slice-omit-right.elv
+- https://github.com/kolbycrouch/elvish-libs/blob/12c8b18fb64ac4d55510b6be8ef576789fbe0ad5/pure/fun.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishUsageProviderTest-up-scope.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/delete-variable.elv
+- https://github.com/rsteube/lazycomplete/blob/f4b4fe962959ec0072661df60e4ed25536194656/internal/shell/elvish.elv
+- https://github.com/chlorm/elvish-term/blob/ff4706adca2f4afb9d0dba879749b90affc52625/osc.elv
+- https://github.com/chlorm/elvish-stl/blob/fee64557c35533a354008ef8c9a16d52ef619c8c/list.elv
+- https://github.com/splunktest1/Netcool/blob/e6ccb52b437c73b1254aa21e858ebfe27046e613/netcool/omnibus/extensions/itmpredictive/predictive_event.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/while-loop-else.elv
+- https://github.com/rachitrathi98/Twitter-Engine/blob/e06ed060240facd4b17e6792637aca5516445fc9/bin/Debug/netcoreapp3.1/_temporary_compressed_files/s34m5odn.elv
+- https://github.com/damonseeley/electroland_repos/blob/63b06daf1a5bc2d66e3fc80bf44a867796e7028b/NoHo/install-archive/2010_01_27-DRIVEBY2010/depends/noho_south_vs02_2_regions_large.elv
+- https://github.com/damonseeley/electroland_repos/blob/63b06daf1a5bc2d66e3fc80bf44a867796e7028b/NoHo/depends/noho_south_vs02_2_regions.elv
+- https://github.com/aca/dotfiles/blob/dfb866a5a2711080592ca324889ad10f014e1f2b/.config/elvish/lib/prompt.elv
+- https://github.com/ckafi/dotfiles/blob/71cb794a636dfe2f28dba33da1ad1818ab9950b2/dot_config/elvish/lib/comp/pass.elv
+- https://github.com/rcabanasdepaz/bayelvira/blob/9ebff5c2cea26e983391617e214ef85774e48086/src/elvira/samples/Enlace%20hacia%20ids/hospi_red_red.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/lambda-with-rest-arg.elv
+- https://github.com/damonseeley/electroland_repos/blob/63b06daf1a5bc2d66e3fc80bf44a867796e7028b/ElVis/depends/gothamRegionTest.elv
+- https://github.com/dduan/ea/blob/0dbb75622a48de1ba382e83d3f51f143d17a94dd/scripts/completion/ea.elv
+- https://github.com/href/dotfiles/blob/3be284c3be938c9d9ece149847e1450c761d709d/.elvish/lib/projects.elv
+- https://github.com/chlorm/textmate-grammar-elvish/blob/059455922e769e1a64885090a7e5f987473583c3/tests/function.elv
+- https://github.com/tw4452852/MyConfig/blob/dc80778de444a5a438f1cc14a38b923f88690428/.config/elvish/rc.elv
+- https://github.com/zzamboni/elvish-modules/blob/6c9fab60baa9c426d5f51f096d481561f84acf96/alias.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/gui.elv
+- https://github.com/greenfork/dotfiles/blob/1c8793f3c4bc759e0c53cb76c2213eaa0951750a/.scripts/currency_rates.elv
+- https://github.com/jdgoal512/elvish-modules/blob/b6f3f7e2119cec43090312d2a233df2f466dc0bf/util.elv
+- https://github.com/jdgoal512/dotfiles/blob/0c79e89e85faaf4e07288511f6dc8631804dbdbf/saved_config/elvish/lib/getopt.elv
+- https://github.com/xiaq/etc/blob/a3289c287fb4593c5bd67cacdbaf7717f86af6fa/kak.elv
+- https://github.com/pontaoski/melehte/blob/ef445e17752571b6f3e99ea565de3a254c5b2efc/hamp%C3%AB.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/git/setup.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishCodeInsightTest-completion-local-ns-command.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/assignment-list-command.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishRefactoringTest-rename-var.elv
+- https://github.com/crinklywrappr/rivendell/blob/2eca0e02b42c5f43d5d5abd081462a905805dc90/lazy.elv
+- https://github.com/lukaszgryglicki/my_legacy_stuff/blob/c540ec88467a3c44890c941a79ff8796cab5ac10/elve/jacumu.elv
+- https://github.com/alloy-d/dotfiles/blob/c3d4e062007d82e6872612759ac6d56545d259a5/.config/elvish/rc.elv
+- https://github.com/kolbycrouch/elvish-gtk/blob/27bcef7412b5949cda22ad4525655a35aab5321f/examples/gtk-tree-view.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/lxqt/session/setup.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/escaped-double-quoted-string-arbitrary-3char.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/assignment-bareword.elv
+- https://github.com/tcarrio/elvish-modules/blob/01acdc718470d843f1170125f92f2e11661e17d2/yarn.elv
+- https://github.com/HarryCutts/.dot/blob/5a1a1da193e624d5662a88f9c350d3c930d286de/.elvish/lib/anc.elv
+- https://github.com/chlorm/textmate-grammar-elvish/blob/059455922e769e1a64885090a7e5f987473583c3/tests/redirections.elv
+- https://github.com/jdgoal512/dotfiles/blob/0c79e89e85faaf4e07288511f6dc8631804dbdbf/saved_config/elvish/lib/math.elv
+- https://github.com/jdgoal512/dotfiles/blob/0c79e89e85faaf4e07288511f6dc8631804dbdbf/saved_config/elvish/lib/string.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/xx.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishCodeInsightTest-completion-imported-ns-sub-ns-command.elv
+- https://github.com/ckafi/dotfiles/blob/71cb794a636dfe2f28dba33da1ad1818ab9950b2/dot_config/elvish/lib/prompt.elv
+- https://github.com/jdgoal512/elvish-modules/blob/b6f3f7e2119cec43090312d2a233df2f466dc0bf/time.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/for-invalid.elv
+- https://github.com/poohvpn/.elvish/blob/b1b2739006f3b6dc3a78df677864c8c878afdd77/rc.elv
+- https://github.com/mrozigor/spaceshuttleultra_mirror/blob/caeffa89129ba749061c8e751d254882e21417c4/Textures/Earth/Elev_mod/15/000583/001739.elv
+- https://github.com/scoiatael/dotfiles/blob/b50106f6aab886ba0c55befee64e71829834ff23/config/elvish/lib/starship.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/WetNWild.elv
+- https://github.com/tcarrio/elvish-modules/blob/bdf97aac07b306510c415567a348497a76ad21f2/clip.elv
+- https://github.com/zzamboni/elvish-modules/blob/6016981c0533ce7ccedbad3c1641e5b85f7f679c/git-summary.elv
+- https://github.com/mcandre/stank/blob/288a5240b83623dfea18ca79f08096bb29464f40/examples/hello.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishUsageProviderTest-edit-var-ref.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishUsageProviderTest-lambda-parameter-2nd.elv
+- https://github.com/aca/dotfiles/blob/fc43ad4261a1395dd1a36a55354fd056f88c9003/.config/elvish/rc.elv
+- https://github.com/system-transparency/system-transparency/blob/5bd47829820072e0f7947c3c82242abdff0760e4/contrib/initramfs-includes/start_cpu.elv
+- https://github.com/thamaji/elvish-on-vscode/blob/ef72cad839ef3ba7a5705836a7b8d408fbc83075/main.elv
+- https://github.com/bpinto/dotfiles/blob/7422fe3e0f8673ab742a056c4f1dd38cb76d9aae/.elvish/n.elv
+- https://github.com/mredaelli/dotfiles/blob/0b54eab25187aa9cc869e245ed14d47e16c8ee5f/.config/elvish/lib/direnv.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/m0303.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/try.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/string-cmp-operators.elv
+- https://github.com/frantic1048/Vanilla/blob/e659c9e27bebe00be7312aec76a22ffd6e811815/bin/bin/fffconfhost.elv
+- https://github.com/frantic1048/Vanilla/blob/842b536532c54ced31113354f5bbc28ddcab325c/bin/bin/print-bfg-changed-commits.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/lxqt/globalkeyshortcuts/setup.elv
+- https://github.com/halostatue/dotfiles/blob/c5831c0fc01761db1941d44717f0a92d4aedb98c/private_dot_elvish/rc.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/try-finally.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/number-operators.elv
+- https://github.com/kolbycrouch/elvish-gtk/blob/27bcef7412b5949cda22ad4525655a35aab5321f/examples/gtk-tree-selection.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/lxqt/notifications/setup.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/escaped-double-quoted-string-n.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/escaped-double-quoted-string-slash.elv
+- https://github.com/direnv/direnv/blob/6e78b900941dcabfb08cb7972ac0ae75781079bb/test/direnv-test.elv
+- https://github.com/mrozigor/spaceshuttleultra_mirror/blob/caeffa89129ba749061c8e751d254882e21417c4/Textures/Earth/Elev_mod/15/000630/000675.elv
+- https://github.com/damonseeley/electroland_repos/blob/63b06daf1a5bc2d66e3fc80bf44a867796e7028b/NoHo/depends/noho_north_vs01.elv
+- https://github.com/krader1961/elvish-lib/blob/83daef1f7fde018e8cb4f485758626ba883648f4/cmd-duration.elv
+- https://github.com/elves/elvish/blob/b49523345eaf552ad7acdeed907747e4fde4375f/website/gen-fonts.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/lxqt/pcmanfm/setup.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishUsageProviderTest-edit-command.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/escaped-double-quoted-string-r.elv
+- https://github.com/frantic1048/Vanilla/blob/e659c9e27bebe00be7312aec76a22ffd6e811815/bin/bin/fffmouse-acc.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/ea402d751dcde6ad1642ac61dca2265dbfc874ec/src/test/resources/com/github/sblundy/elvish/lang/assignment-set-form.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/MX0104.elv
+- https://github.com/tcarrio/elvish-modules/blob/84ce60061113b6eaae782826e928e9bc6ecbfaa2/shell.elv
+- https://github.com/taw/100-languages-speedrun/blob/84240d5cb64ad6b1513dc2f4c54e18c5377e70c3/episode-48-elvish/catfacts.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/ea402d751dcde6ad1642ac61dca2265dbfc874ec/src/test/resources/com/github/sblundy/elvish/lang/assignment-set-form-err-no-space-after.elv
+- https://github.com/kolbycrouch/elvish-libs/blob/12c8b18fb64ac4d55510b6be8ef576789fbe0ad5/pure/map.elv
+- https://github.com/sane-fmt/sane-fmt/blob/6f89925d414a1769c5bfb5cc712e845acca46776/exports/completion.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/pipeline-3-long.elv
+- https://github.com/ryanjafari/elvish/blob/a75dd1b59a708f8ce4f9652daaf64dacfe581a8f/talos.elv
+- https://github.com/rgnns/nixos-config/blob/7ce5a2e5ad339bf92f02ecdbcd8a87ef0860a646/dotfiles/elvish/rc.elv
+- https://github.com/zzamboni/elvish-modules/blob/6c9fab60baa9c426d5f51f096d481561f84acf96/test.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishCodeInsightTest-completion-imported-ns-command.elv
+- https://github.com/crinklywrappr/rivendell/blob/df2018429a254b29c9d45aab3e1d23920e970b7c/vis.elv
+- https://github.com/rcabanasdepaz/bayelvira/blob/9ebff5c2cea26e983391617e214ef85774e48086/src/elvira/samples/ids/id_rand63.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/highlighting/compound-expression-command.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishUsageProviderTest-local-scope.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/nested-commands.elv
+- https://github.com/zzamboni/elvish-modules/blob/6c9fab60baa9c426d5f51f096d481561f84acf96/atlas.elv
+- https://github.com/zzamboni/dot-elvish/blob/193eff1eb36097e2972b37cd056117eac7d1d9ec/lib/private.elv
+- https://github.com/togoAIO/d365Doku/blob/bda1ba926a033794ab360ef46a9f80d1da0722ce/obj/.cache/build/sgjq2cx1.msh/o5svicud.elv
+- https://github.com/UdonNoodleSoup/dotfiles/blob/5b7bb1519bf3d95a06f96053225e37cf6116a622/elvish/lib/github.com/zzamboni/elvish-modules/semver.elv
+- https://github.com/aca/elvish-bash-completion/blob/f9023027bd4de68bfdc50fc2d09031ae20c79c5f/bash-completer.elv
+- https://github.com/halostatue/dotfiles/blob/c5831c0fc01761db1941d44717f0a92d4aedb98c/private_dot_elvish/lib/direnv.elv
+- https://github.com/zzamboni/elvish-modules/blob/6c9fab60baa9c426d5f51f096d481561f84acf96/tty.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/firefox/userjs.elv
+- https://github.com/iwataka/dotfiles/blob/a7af8a8196ce10e2d82e243a082b190ee597fbf7/elvish/rc.elv
+- https://github.com/hyperupcall/dots/blob/05c3a010a2d521f6aa62fba1bdfe569f95be942f/user/.config/dotshellgen/zoxide/zoxide.elv
+- https://github.com/chlorm/textmate-grammar-elvish/blob/059455922e769e1a64885090a7e5f987473583c3/tests/comments.elv
+- https://github.com/rcabanasdepaz/bayelvira/blob/9ebff5c2cea26e983391617e214ef85774e48086/src/elvira/samples/Enlace%20hacia%20ids/car_asim2.elv
+- https://github.com/zzamboni/elvish-modules/blob/6016981c0533ce7ccedbad3c1641e5b85f7f679c/spinners.elv
+- https://github.com/zzamboni/zzamboni.org/blob/37219e0b799c17e16ae8bae7ffee6cc729fbd7b3/update-hugo.elv
+- https://github.com/iandol/dotfiles/blob/d145da1f0ee4285f4c61bc8661417474b5e7086c/aliases.elv
+- https://github.com/chlorm/elvish-term/blob/ff4706adca2f4afb9d0dba879749b90affc52625/rgb.elv
+- https://github.com/dglmoore/elvish-libs/blob/44022bc3d57c9fcc3b427a64334c8d739eefbec6/whale.elv
+- https://github.com/poohvpn/.elvish/blob/ab58796cbef4a4371357c804a98f96a6d69a6a7f/lib/go.elv
+- https://github.com/Kingsy/dwm_status/blob/1bdd3ac5e2a4ed2539b8abdc4e33c7bc93f10a88/lib/helpers.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/KingIsle.elv
+- https://github.com/tsmanner/elvish-env/blob/5c4b2831c262bf527652bed0002749a8026d2b8f/ssh-agent.elv
+- https://github.com/aca/dotfiles/blob/ffc092df2d5ac02ee80f4e6837af5d7f295bf63e/.config/elvish/lib/pueue.elv
+- https://github.com/zzamboni/dot-elvish/blob/addf6ef178204f237c2cf2f8e24b8e84ba64790b/aliases/mcafee-start.elv
+- https://github.com/dglmoore/elvish-libs/blob/626dbb65407e88b825ce1596c301fa9d8cf61e54/acme.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/powerline.elv
+- https://github.com/jdgoal512/dotfiles/blob/0c79e89e85faaf4e07288511f6dc8631804dbdbf/saved_config/elvish/lib/list.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishUsageProviderTest-builtin.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishCodeInsightTest-completion-bundled.elv
+- https://github.com/occivink/mpv-music-player/blob/4ab4e4127d3722095258002a0f3fb13262d913c3/stuff/generate_waveforms.elv
+- https://github.com/frantic1048/Vanilla/blob/e659c9e27bebe00be7312aec76a22ffd6e811815/elvish/.elvish/lib/%E3%82%AB%E3%83%95%E3%82%A7%E3%83%A9%E3%83%86%E3%83%BB%E3%82%AB%E3%83%95%E3%82%A7%E3%83%A2%E3%82%AB%E3%83%BB%E3%82%AB%E3%83%97%E3%83%81%E3%83%BC%E3%83%8E/alias.elv
+- https://github.com/zzamboni/elvish-completions/blob/230d73b95e29c8af116e1b37a79c9022b1c8fc69/vcsh.elv
+- https://github.com/tcarrio/elvish-modules/blob/ca66ddca6c0611fef9039948c71991c8a1ccb65e/py.elv
+- https://github.com/rcabanasdepaz/bayelvira/blob/9ebff5c2cea26e983391617e214ef85774e48086/src/elvira/samples/ids/car_asim.elv
+- https://github.com/5aaee9/dotfiles/blob/2060567e854a50b46e0cd24f31e369d81bcc17ca/elvish/rc.elv
+- https://github.com/damonseeley/electroland_repos/blob/63b06daf1a5bc2d66e3fc80bf44a867796e7028b/NoHo/install-archive/2010_01_27-DRIVEBY2010/depends/noho_north_vs01.elv
+- https://github.com/uranusjr/dotfiles/blob/aff134f8664a05b5d517fc2339e6e9a7232331be/files/elvish/sites/tp-sb.elv
+- https://github.com/u-root/u-root/blob/1cec665bd3651538007ff27ccdf714e0395ed8d1/vendor/src.elv.sh/pkg/mods/readlinebinding/readline-binding.elv
+- https://github.com/carlosRdguez/tf-compilacion/blob/b9c44407284fcbb3f282ebd2d2751f9153f0cde8/Vitral/especificacion_lenguaje.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/assignment-map.elv
+- https://github.com/zzamboni/dot-elvish/blob/193eff1eb36097e2972b37cd056117eac7d1d9ec/rc.elv
+- https://github.com/damonseeley/electroland_repos/blob/63b06daf1a5bc2d66e3fc80bf44a867796e7028b/ElVis/depends/testRegions.elv
+- https://github.com/uranusjr/dotfiles/blob/aff134f8664a05b5d517fc2339e6e9a7232331be/files/elvish/lib/site.elv
+- https://github.com/zzamboni/elvish-completions/blob/6f48bf5690ef4be10de07ef4c0c1a4416a900ac6/git.elv
+- https://github.com/aca/dotfiles/blob/dfb866a5a2711080592ca324889ad10f014e1f2b/.config/elvish/lib/zoxide.elv
+- https://github.com/zzamboni/elvish-modules/blob/6016981c0533ce7ccedbad3c1641e5b85f7f679c/1pass.elv
+- https://github.com/kolbycrouch/elvish-libs/blob/2d66f57b935a8dfad229ef5ffa0aa3f65a0a6a7b/pure/fun_test.elv
+- https://github.com/rcabanasdepaz/bayelvira/blob/9ebff5c2cea26e983391617e214ef85774e48086/src/elvira/samples/Enlace%20hacia%20ids/hospi_red3.elv
+- https://github.com/UdonNoodleSoup/dotfiles/blob/5b7bb1519bf3d95a06f96053225e37cf6116a622/elvish/lib/github.com/zzamboni/elvish-modules/alias.elv
+- https://github.com/wizhi/dot-elvish/blob/3965b1138e07b3ab21e2f6958b2c072f3bdbaaca/rc.elv
+- https://github.com/L3afMe/dots/blob/5c0609c4880233af414b995d4dee11a5a2fed98c/home/elvish/screenshot.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/command-with-option.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/escaped-double-quoted-string-control-2.elv
+- https://github.com/xiaq/edit.elv/blob/34a60374c1cc69b6af802af5fbcc795d12a1617f/smart-matcher.elv
+- https://github.com/kolbycrouch/elvish-libs/blob/e13e5aeae6884ef7a83fb2dd98c437554e2814cf/pure/util_test.elv
+- https://github.com/frantic1048/Vanilla/blob/a0a356d3cf9f089ebd9e4f362b8cafea2603446d/bin/bin/fffmacproresolution.elv
+- https://github.com/yerlaser/yerlaser.github.io/blob/9e19e961b914d28ea7543f07ff4b1c37cb5da824/configs/rc.elv
+- https://github.com/taw/100-languages-speedrun/blob/84240d5cb64ad6b1513dc2f4c54e18c5377e70c3/episode-48-elvish/fizzbuzz.elv
+- https://github.com/halostatue/dotfiles/blob/c5831c0fc01761db1941d44717f0a92d4aedb98c/private_dot_elvish/aliases/dfc.elv
+- https://github.com/sblundy/elvish-chain-theme/blob/2d3376a87d95886899ef01d7e7c7048ff1cc5be6/segments-git.elv
+- https://github.com/HarryCutts/.dot/blob/ee56ad6dc25045bc5a24fde0dcd0ea48690fec27/.elvish/rc.elv
+- https://github.com/shift-org/shift-docs/blob/d5426cd3c2068d119ce2ef5ba3659b835e1d2ca3/legacy/cal/old/php.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishRefactoringTest-rename-ns-var-after.elv
+- https://github.com/Champii/elvish-base/blob/088777b5aa3bfcc527b19387c5fb95866635a6db/prompt.elv
+- https://github.com/oom-ai/ffgen/blob/1f70b106ab135e0b6733e7b70aab88b8f986d82f/completions/elvish/ffgen.elv
+- https://github.com/cdyfng/ethereum/blob/603fd374a591ec3c59260e84b62a246728425c12/elvish/eval/acme.elv
+- https://github.com/wfxr/code-minimap/blob/64b7a45c82fef62f1a0207257437d4ce18b381c4/completions/elvish/code-minimap.elv
+- https://github.com/G4te-Keep3r/HowdyHackers/blob/fb6d391aaecb60ab5c4650d4ae2ddd599fd85db2/langs/2/file.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/mxs0402.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/Random.elv
+- https://github.com/gergelyk/elvish-libs/blob/e97f85a6bbd78545a59bd504b2c9b6a5e2e82894/python.elv
+- https://github.com/zzamboni/elvish-modules/blob/6c9fab60baa9c426d5f51f096d481561f84acf96/util-edit.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/Bakwoods.elv
+- https://github.com/splunktest1/Netcool/blob/e6ccb52b437c73b1254aa21e858ebfe27046e613/netcool/omnibus/desktop/default.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/compound-expression.elv
+- https://github.com/href/dotfiles/blob/867926da86b2b364ba3dd8f500fd82ecd316bb1c/.elvish/lib/s3.elv
+- https://github.com/Kingsy/dwm_status/blob/1bdd3ac5e2a4ed2539b8abdc4e33c7bc93f10a88/lib/dwm_battery.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/MX0101.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/if-else-statement.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/line-continuation-carrot.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/slice-right-open.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/if-statement.elv
+- https://github.com/laher/lunchbox/blob/065ecfef0c028aa256edfa0c1937ad170c1e385a/elvish/util/crossplatform.elv
+- https://github.com/xiaq/etc/blob/a3289c287fb4593c5bd67cacdbaf7717f86af6fa/rc.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/ea402d751dcde6ad1642ac61dca2265dbfc874ec/src/test/resources/com/github/sblundy/elvish/lang/assignment-single-quoted-var.elv
+- https://github.com/rcabanasdepaz/bayelvira/blob/9ebff5c2cea26e983391617e214ef85774e48086/src/elvira/samples/ids/azar_asim.elv
+- https://github.com/jdgoal512/elvish-modules/blob/b6f3f7e2119cec43090312d2a233df2f466dc0bf/latex.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishUsageProviderTest-bundled.elv
+- https://github.com/zzamboni/elvish-themes/blob/3c93236951783a7118478d152b5db7124eb465bc/chain.elv
+- https://github.com/rcabanasdepaz/bayelvira/blob/9ebff5c2cea26e983391617e214ef85774e48086/src/elvira/samples/ids/id_rand67.elv
+- https://github.com/zzamboni/elvish-modules/blob/6c9fab60baa9c426d5f51f096d481561f84acf96/nix.elv
+- https://github.com/chlorm/elvish-tmpfs/blob/9243356e109e637333ee9310a26712c05a33b605/tmpfs.elv
+- https://github.com/ajeetdsouza/dotfiles/blob/127643350ff5fd6ba9b46be2bf6e2f1ffc71cd18/run_onchange_elvish.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishCodeInsightTest-completion-edit-ns-command.elv
+- https://github.com/uranusjr/dotfiles/blob/aff134f8664a05b5d517fc2339e6e9a7232331be/files/elvish/lib/nvm.elv
+- https://github.com/BeLeap/dotfiles/blob/fc3562c0c078a219979474fffa7f67599bd9b050/elvish/lib/tmux.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishCodeInsightTest-completion-edit-ns-var-ref.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/escaped-double-quoted-string-invalid.elv
+- https://github.com/yashkirr/EcoViz/blob/40b8b61d5dfb222df08ec682c708c37c143d2cfd/EcoViz%20Data/S6000-6000-256.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/if-elif-else-statement.elv
+- https://github.com/frantic1048/Vanilla/blob/54bb8e4b8148fbd7ba8ce5176fd1bcb56568b0b2/elvish/.elvish/lib/%E3%82%AB%E3%83%95%E3%82%A7%E3%83%A9%E3%83%86%E3%83%BB%E3%82%AB%E3%83%95%E3%82%A7%E3%83%A2%E3%82%AB%E3%83%BB%E3%82%AB%E3%83%97%E3%83%81%E3%83%BC%E3%83%8E/env.elv
+- https://github.com/UdonNoodleSoup/dotfiles/blob/5b7bb1519bf3d95a06f96053225e37cf6116a622/elvish/lib/github.com/zzamboni/elvish-modules/iterm2.elv
+- https://github.com/UdonNoodleSoup/dotfiles/blob/5b7bb1519bf3d95a06f96053225e37cf6116a622/elvish/lib/github.com/zzamboni/elvish-modules/dir.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/two-commands.elv
+- https://github.com/eikek/dotfiles/blob/bc49ee24933b1d7fbb4de4a78c9b6348edc55b6e/elvish/.elvish/lib/jira.elv
+- https://github.com/damonseeley/electroland_repos/blob/63b06daf1a5bc2d66e3fc80bf44a867796e7028b/ElVis/depends/regions_old/example.elv
+- https://github.com/aca/dotfiles/blob/f0566b0334f2448970abc91349df9dd322242516/.config/elvish/lib/utils.elv
+- https://github.com/knight9114/notes/blob/452da7d237a5c227f00a8caa3d1f5cbf2f79fdb0/starship/src/init/starship.elv
+- https://github.com/UdonNoodleSoup/dotfiles/blob/5b7bb1519bf3d95a06f96053225e37cf6116a622/elvish/rc.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/openbox/setup.elv
+- https://github.com/BeLeap/dotfiles/blob/fc3562c0c078a219979474fffa7f67599bd9b050/elvish/rc.elv
+- https://github.com/shadowrylander/shadowrylander/blob/b030a1d624dae8b779acd38fa8fa727dad6e6dfd/rc.elv
+- https://github.com/chlorm/elvish-auto-env/blob/ae0917e25c67bf63545df5975f635484d0d87700/editor.elv
+- https://github.com/chlorm/textmate-grammar-elvish/blob/b5a0fe4b17847ba21afb71658ab8326d876ef494/tests/map.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/elvish/setup.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/for-list-command.elv
+- https://github.com/ryanjafari/elvish/blob/a75dd1b59a708f8ce4f9652daaf64dacfe581a8f/paths.elv
+- https://github.com/TheRenegadeCoder/sample-programs/blob/0e046d218867b5e629a49c3949b47b6de5facf72/archive/e/elvish/hello-world.elv
+- https://github.com/TomNWainwright/dotfiles/blob/4d21ffc9c7b05312a3138833957a928ce7e36bbc/dotfiles/elvish/aliases/echoa.elv
+- https://github.com/aca/dotfiles/blob/c37466daad2174cb92f984267ada82283e7f7ca8/.config/elvish/lib/completion.elv
+- https://github.com/Crestwave/bf/blob/d7d00d216df8043100f9e5f5a74370de70f581f6/elvish/bf.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/highlighting/fn-with-rest.elv
+- https://github.com/uranusjr/dotfiles/blob/aff134f8664a05b5d517fc2339e6e9a7232331be/files/elvish/sites/tp-mba.elv
+- https://github.com/zzamboni/elvish-modules/blob/6c9fab60baa9c426d5f51f096d481561f84acf96/util_test.elv
+- https://github.com/Champii/elvish-base/blob/088777b5aa3bfcc527b19387c5fb95866635a6db/alias.elv
+- https://github.com/UdonNoodleSoup/dotfiles/blob/5b7bb1519bf3d95a06f96053225e37cf6116a622/elvish/lib/github.com/zzamboni/elvish-modules/util_test.elv
+- https://github.com/mrozigor/spaceshuttleultra_mirror_import/blob/4490455c3e3bc2af0e19c3f1e36ee35e715d3cf6/Textures/Earth/Elev_mod/13/000307/000111.elv
+- https://github.com/damonseeley/electroland_repos/blob/63b06daf1a5bc2d66e3fc80bf44a867796e7028b/NoHo/depends/noho_south_vs02_2_regions_large.elv
+- https://github.com/chlorm/elvish-ssh/blob/9c692452aa947e6d1910358ef5295623055b0b01/agent.elv
+- https://github.com/Wilfred/difftastic/blob/5a09e9b3f7a388a07eb988a070fbbc5d8f5c3077/sample_files/elvish_after.elv
+- https://github.com/tsmanner/elvish-env/blob/d741b31f04fd4430adc2a99dcea0f176a71ec11c/prompt.elv
+- https://github.com/chlorm/elvish-term/blob/0f372c1133eb097dfb4f4d69b5f4b8c6d9b773a9/ansi.elv
+- https://github.com/laher/lunchbox/blob/f56e24115e857f630341c3c590b886c0f842fa7d/elvish/xbar.elv
+- https://github.com/edouard-lopez/pure-x/blob/5a61355b907cd20e6d33a38fb36feb374548d25a/config/prompt.elv
+- https://github.com/grizzlysmit/gzz-goto/blob/715e112c97ef626d48c5e475290e9d2b64ab55cc/gt.elv
+- https://github.com/SolitudeSF/dot/blob/38f5e03a92a448a7d84ebed114226b398dbeb75b/elvish/lib/theme.elv
+- https://github.com/larkwiot/tools/blob/fcc9e4bcbed0911156421640c2c633fc4a2bd522/old/rc.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/fn-with-args.elv
+- https://github.com/tolziplohu/dotfiles/blob/2059cf0de21d5ea16a482c43f062c91c6ec3ee63/rc.elv
+- https://github.com/ZodiacalComet/green2epub/blob/a5d46df94e6eaa7952fa573e42e891607ec81c14/completions/green2epub.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/vscodium/setup.elv
+- https://github.com/tcarrio/elvish-modules/blob/09ee65d801f82afc8779318498934f1a91447547/redis.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishCodeInsightTest-completion-builtin-command.elv
+- https://github.com/frantic1048/Vanilla/blob/a0a356d3cf9f089ebd9e4f362b8cafea2603446d/bin/bin/fffrpm.elv
+- https://github.com/dglmoore/elvish-libs/blob/626dbb65407e88b825ce1596c301fa9d8cf61e54/punch.elv
+- https://github.com/ezh/elvish-bash-completion/blob/2bf4f29446760ab8f7a131c2ff13479ebf7b95b4/git.elv
+- https://github.com/NicolasJanWissema/Ecoviz/blob/135e91aa2e38d08dd44961a6daabc1a3ce0b9fac/data/S2000-2000-512.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/ea402d751dcde6ad1642ac61dca2265dbfc874ec/src/test/resources/com/github/sblundy/elvish/lang/assignment-double-quoted-var.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/mpv/setup.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/mimeapps/setup.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/variable-ref-e-ns.elv
+- https://github.com/crinklywrappr/rivendell/blob/f424c45a7a880f7b3286e4a6d7c6664a5e485bf0/fun.elv
+- https://github.com/jdgoal512/elvish-modules/blob/b6f3f7e2119cec43090312d2a233df2f466dc0bf/getopt.elv
+- https://github.com/chlorm/elvish-util-wrappers/blob/d2bf32748abee3fa04c1ebf1a3a40b8707413012/nm.elv
+- https://github.com/KSXGitHub/parallel-disk-usage/blob/84cb3cd4a7696ea5ff11ccc783a44c0efcc12b1e/exports/completion.elv
+- https://github.com/Nekroze/dotfiles/blob/6a8e94eaec9414319906dba3cb4b1405680f6cbe/rc.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/slice-base.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/while-loop.elv
+- https://github.com/bpinto/dotfiles/blob/7422fe3e0f8673ab742a056c4f1dd38cb76d9aae/.elvish/bash-wrapper.elv
+- https://github.com/bpinto/dotfiles/blob/7422fe3e0f8673ab742a056c4f1dd38cb76d9aae/.elvish/git.elv
+- https://github.com/jkbr-19/sindarin-term/blob/a7df41d317291d1aa3cdff77377410350eb12f89/date-elv.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/command-with-variable.elv
+- https://github.com/zzamboni/elvish-completions/blob/230d73b95e29c8af116e1b37a79c9022b1c8fc69/cd.elv
+- https://github.com/chlorm/elvish-stl/blob/2f43f4ab7cc4478b086d31a3cc9d877ca02a4be7/path.elv
+- https://github.com/zzamboni/elvish-completions/blob/230d73b95e29c8af116e1b37a79c9022b1c8fc69/git_test.elv
+- https://github.com/edouard-lopez/pure-x/blob/5a61355b907cd20e6d33a38fb36feb374548d25a/install/configure.elv
+- https://github.com/TomNWainwright/dotfiles/blob/4d21ffc9c7b05312a3138833957a928ce7e36bbc/dotfiles/elvish/aliases/a.elv
+- https://github.com/mrozigor/spaceshuttleultra_mirror/blob/caeffa89129ba749061c8e751d254882e21417c4/Textures/Earth/Elev_mod/13/000132/000525.elv
+- https://github.com/wizhi/dot-elvish/blob/0c8e81d277b3dee0ee605fdc1a7ca1492e7472eb/lib/journal.elv
+- https://github.com/kjivan/dev-env/blob/0f19e2189b5dc881dcb6288fa3a2e246a34ac635/.elvish/rc.elv
+- https://github.com/jdgoal512/elvish-modules/blob/b6f3f7e2119cec43090312d2a233df2f466dc0bf/hex.elv
+- https://github.com/emilefraser/PyroType/blob/0a1a893214846de838822d164c12acb6b49c7ce6/sample/elv/_.elv
+- https://github.com/Kingsy/dwm_status/blob/1bdd3ac5e2a4ed2539b8abdc4e33c7bc93f10a88/lib/dwm_resources.elv
+- https://github.com/dwuggh/dw/blob/81d1de5627b2d420bbf5a837a490eb7ceb1103e7/completions/dw.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/compound-expression-var-first.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/ea402d751dcde6ad1642ac61dca2265dbfc874ec/src/test/resources/com/github/sblundy/elvish/lang/assignment-var-form.elv
+- https://github.com/kolbycrouch/elvish-libs/blob/2d66f57b935a8dfad229ef5ffa0aa3f65a0a6a7b/contrib/test.elv
+- https://github.com/laher/lunchbar/blob/31aa5b0bec405c7c0632738fa867a6186467a742/testdata/elvish/a.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/variable-ref-ns.elv
+- https://github.com/sblundy/elvish-chain-theme/blob/2d3376a87d95886899ef01d7e7c7048ff1cc5be6/chain.elv
+- https://github.com/watchexec/cargo-watch/blob/0f58a16bda30899069468820c4a1f68c40e0de7e/completions/cargo-watch.elv
+- https://github.com/elves/sample-plugin/blob/e527f92aa118b3d172273128fb4fad89891f86ac/sample-script.elv
+- https://github.com/bqv/.dotfiles/blob/271807264fde46b86d8c4450bd8723dad084ec36/.elvish%23%23%25.delta/rc.elv
+- https://github.com/href/dotfiles/blob/867926da86b2b364ba3dd8f500fd82ecd316bb1c/.elvish/lib/notes.elv
+- https://github.com/tcarrio/elvish-modules/blob/c49b12afd03f6ecf4c2626cb41d2891c2f500e11/cc.elv
+- https://github.com/Kingsy/dwm_status/blob/1bdd3ac5e2a4ed2539b8abdc4e33c7bc93f10a88/lib/dwm_date.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/MX0301.elv
+- https://github.com/chlorm/elvish-stl/blob/2f43f4ab7cc4478b086d31a3cc9d877ca02a4be7/env.elv
+- https://github.com/trieloff/elvish-completion/blob/ebca424d7a679c7ea6ef0e25ef9a550e35fc75ab/wsk.elv
+- https://github.com/frantic1048/Vanilla/blob/54bb8e4b8148fbd7ba8ce5176fd1bcb56568b0b2/elvish/.elvish/lib/whtsky.elv
+- https://github.com/haxscramper/hack/blob/4b3672348cef91bb8e9441d29c127e73be5d4b69/testing/shell/apply_patch.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/lxqt/autostart/setup.elv
+- https://github.com/zzamboni/elvish-modules/blob/6c9fab60baa9c426d5f51f096d481561f84acf96/prompt-hooks.elv
+- https://github.com/chlorm/kratos/blob/9704880084b94eefa510dc9ee88f0297f83e472a/kratos-init.elv
+- https://github.com/orbiternassp/NASSP/blob/521ee75051bda6da2cee08ba8286e5124dbc2c42/Textures/Earth/Elev_mod/15/000699/001131.elv
+- https://github.com/jdgoal512/elvish-modules/blob/b6f3f7e2119cec43090312d2a233df2f466dc0bf/test-getopt.elv
+- https://github.com/bpinto/dotfiles/blob/7422fe3e0f8673ab742a056c4f1dd38cb76d9aae/.elvish/bindings.elv
+- https://github.com/BeLeap/dotfiles/blob/797544ee507e590699f6bbb2625579fd7f1d2222/elvish/lib/wsl.elv
+- https://github.com/direnv/direnv-deb/blob/a73170f50ce26ad30f5b4bc677e62c2c46f8dc8c/test/direnv-test.elv
+- https://github.com/timvisee/ffsend/blob/463130cdf83a30eb53247b1ea59b55d456df28b5/contrib/completions/ffsend.elv
+- https://github.com/darius/elv/blob/cdc78d3e0a2a478262735b76c9cb69e2fa9dfb6d/selvc.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishCodeInsightTest-completion-ns-command.elv
+- https://github.com/UdonNoodleSoup/dotfiles/blob/5b7bb1519bf3d95a06f96053225e37cf6116a622/elvish/lib/github.com/zzamboni/elvish-modules/bang-bang.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/mx0203.elv
+- https://github.com/HarryCutts/elvish-chromium-dev/blob/c361105293cad27f88e27d75e59b6a0fef2476ba/gclient.elv
+- https://github.com/tcarrio/elvish-modules/blob/c49b12afd03f6ecf4c2626cb41d2891c2f500e11/install.elv
+- https://github.com/occivink/config/blob/5c2700ad2d40d72e32af76e6e5e16a3664b14cc1/.config/elvish/rc.elv
+- https://github.com/rcabanasdepaz/bayelvira/blob/9ebff5c2cea26e983391617e214ef85774e48086/src/elvira/samples/Enlace%20hacia%20ids/rand1/id_rand67.elv
+- https://github.com/dduan/tre/blob/e0c4c78ee432880ad31025ea7af4e499b6712897/scripts/completion/tre.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/m0503.elv
+- https://github.com/mrozigor/spaceshuttleultra_mirror/blob/caeffa89129ba749061c8e751d254882e21417c4/Textures/Earth/Elev_mod/15/000582/001739.elv
+- https://github.com/Champii/elvish-base/blob/088777b5aa3bfcc527b19387c5fb95866635a6db/utils.elv
+- https://github.com/trieloff/elvish-completion/blob/ebca424d7a679c7ea6ef0e25ef9a550e35fc75ab/npx.elv
+- https://github.com/kraken-hpc/kraken-layercake/blob/e425f224d716c132bedbbb98b0d1de3b1751d25b/utils/docker/config/.elvish/rc.elv
+- https://github.com/chlorm/elvish-auto-env/blob/46f136a971b6e4e2e8577ce2acae8f031991c977/pager.elv
+- https://github.com/Champii/elvish-base/blob/088777b5aa3bfcc527b19387c5fb95866635a6db/env.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/MX0102.elv
+- https://github.com/fagci/elvish-practicing/blob/41c04a15d51ba4c7be8452cc71aa049efd7699a4/kub.elv
+- https://github.com/sbinet/dot-config/blob/592fc68a0ef7498c2a0a496929cbfe61083c58ed/elvish/lib/direnv.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/for-loop-else.elv
+- https://github.com/frantic1048/Vanilla/blob/54bb8e4b8148fbd7ba8ce5176fd1bcb56568b0b2/bin/bin/i3-video-wallpaper.elv
+- https://github.com/xiaq/edit.elv/blob/34a60374c1cc69b6af802af5fbcc795d12a1617f/compl/go.elv
+- https://github.com/Bhamoss/jambler-simulation/blob/0fa014cd91e4e2d2032f1498c4c66aeaf6b10d86/completions/jambler-simulation.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishStructureViewFactoryTest-top-level-methods.elv
+- https://github.com/xiaq/edit.elv/blob/34a60374c1cc69b6af802af5fbcc795d12a1617f/compl/git.elv
+- https://github.com/frantic1048/Vanilla/blob/e659c9e27bebe00be7312aec76a22ffd6e811815/elvish/.elvish/lib/%E3%82%AB%E3%83%95%E3%82%A7%E3%83%A9%E3%83%86%E3%83%BB%E3%82%AB%E3%83%95%E3%82%A7%E3%83%A2%E3%82%AB%E3%83%BB%E3%82%AB%E3%83%97%E3%83%81%E3%83%BC%E3%83%8E/completion.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/ea402d751dcde6ad1642ac61dca2265dbfc874ec/src/test/resources/com/github/sblundy/elvish/lang/assignment-set-form-err-no-space-before.elv
+- https://github.com/wfxr/clitrans/blob/afb0babb7894b18138c788d8af548856028b759d/completions/elvish/clitrans.elv
+- https://github.com/chlorm/kratos/blob/98e3c89c849c12198e8a26f4ccccb9a05b76cee5/kratos.elv
+- https://github.com/Worble/elvish-bootstrap/blob/e5dc300c9a3a8540d738167123ec2e415f8a31bb/elvish/rc.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/slice-right-closed.elv
+- https://github.com/spider-explorer/spider2/blob/afe7cc1694a80e1914951a0640d92c4ce99c133e/pack.elv
+- https://github.com/tylerreckart/gondolin/blob/ca4dd249d9c6429513ccdbdd3074a092943fac78/gondolin.elv
+- https://github.com/chlorm/elvish-ssh/blob/9c692452aa947e6d1910358ef5295623055b0b01/keygen.elv
+- https://github.com/QAston/wslconfig/blob/0bf0900118d2f70732f4452115db8c1147cdbb1c/home/portable/broot/completion/broot.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/use-url.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/command-with-string.elv
+- https://github.com/TomNWainwright/dotfiles/blob/4d21ffc9c7b05312a3138833957a928ce7e36bbc/dotfiles/elvish/aliases/cdb.elv
+- https://github.com/petikvx/vx-ezine/blob/f642404f9736d6e64d8e9ae41e2e6735355fa356/vxdb/e/Email-Worm.VBS.Elva.elv
+- https://github.com/L3afMe/dots/blob/5c0609c4880233af414b995d4dee11a5a2fed98c/home/elvish/rc.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/delete-indexed-variable.elv
+- https://github.com/zzamboni/elvish-completions/blob/230d73b95e29c8af116e1b37a79c9022b1c8fc69/dd.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/slice-omit-left.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/MX0303.elv
+- https://github.com/tcarrio/elvish-modules/blob/096e7728cae06ba8db81832facc04a187cc0b659/collections.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/comment-inline.elv
+- https://github.com/KSXGitHub/pretty-exec/blob/bf58df92c79891ac91dee70f4ddd79725b9d551a/exports/completion.elv
+- https://github.com/chlorm/textmate-grammar-elvish/blob/059455922e769e1a64885090a7e5f987473583c3/tests/variables.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishUsageProviderTest-local-var.elv
+- https://github.com/xiamaz/Configurations/blob/4eab6c40b503c7c25f49853b3fbe551e5f551f0c/Dotfiles/elvish/.elvish/rc.elv
+- https://github.com/mrozigor/spaceshuttleultra_mirror_import/blob/4490455c3e3bc2af0e19c3f1e36ee35e715d3cf6/Textures/Earth/Elev_mod/15/000628/000676.elv
+- https://github.com/hirosystems/clarinet/blob/0a593b2fd8ef22a368cdf6fdf06c7999df966a32/completions/clarinet.elv
+- https://github.com/cherryblossom000/cilantro/blob/9acdb81213dd836ed7c15b1e665112a6b2433ad8/scripts/deploy.elv
+- https://github.com/MisterJaJo/elvish-coreutils-compl-gen/blob/b5ad762d1d01457a5696abae34fb08ca823d738d/coreutil-completions.elv
+- https://github.com/chlorm/elvish-stl/blob/fee64557c35533a354008ef8c9a16d52ef619c8c/windows.elv
+- https://github.com/uranusjr/dotfiles/blob/aff134f8664a05b5d517fc2339e6e9a7232331be/files/elvish/lib/plat.elv
+- https://github.com/lovebaihezi/workflow/blob/3abaa8dc368c305a22722abf2b0f3ce76895c8d3/setup.elv
+- https://github.com/occivink/config/blob/5c2700ad2d40d72e32af76e6e5e16a3664b14cc1/.config/elvish/lib/smart-matcher.elv
+- https://github.com/zzamboni/elvish-modules/blob/6c9fab60baa9c426d5f51f096d481561f84acf96/lazy-vars.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/command-with-indexed-variable.elv
+- https://github.com/aca/dotfiles/blob/0ceab629e91ab2293dcec1c7caaf9e7cfa0ed3bc/.config/elvish/lib/bind.elv
+- https://github.com/chlorm/elvish-util-wrappers/blob/d2bf32748abee3fa04c1ebf1a3a40b8707413012/btrfs.elv
+- https://github.com/jdgoal512/elvish-modules/blob/b6f3f7e2119cec43090312d2a233df2f466dc0bf/list.elv
+- https://github.com/damonseeley/electroland_repos/blob/63b06daf1a5bc2d66e3fc80bf44a867796e7028b/NoHo/depends/noho_south_vs01.elv
+- https://github.com/elves/elvish/blob/ab699bae8703af6fd7332aaa61e56072b1b0bb7b/pkg/mods/readlinebinding/readline-binding.elv
+- https://github.com/occivink/config/blob/5c2700ad2d40d72e32af76e6e5e16a3664b14cc1/.config/elvish/lib/subedit.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/ea402d751dcde6ad1642ac61dca2265dbfc874ec/src/test/resources/com/github/sblundy/elvish/lang/assignment-multi-set-form.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/lxqt/powermanagement/setup.elv
+- https://github.com/href/dotfiles/blob/3be284c3be938c9d9ece149847e1450c761d709d/.elvish/lib/system.elv
+- https://github.com/href/dotfiles/blob/867926da86b2b364ba3dd8f500fd82ecd316bb1c/.elvish/lib/cmdline.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/Urbana.elv
+- https://github.com/crinklywrappr/rivendell/blob/2eca0e02b42c5f43d5d5abd081462a905805dc90/base.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/ea402d751dcde6ad1642ac61dca2265dbfc874ec/src/test/resources/com/github/sblundy/elvish/lang/assignment-var-rest-form.elv
+- https://github.com/chlorm/elvish-term/blob/ff4706adca2f4afb9d0dba879749b90affc52625/color-scheme.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/assignment-multiline-map.elv
+- https://github.com/h0ldnack/h0ldnack/blob/109395208c9c60f63cc9c81c38e483e129fdb121/build.elv
+- https://github.com/iandol/dotfiles/blob/034be09de04801e29d6caf05bd8cba6d47878508/cmds.elv
+- https://github.com/crinklywrappr/rivendell/blob/90705fab8da69977bbd4fda59adee6ffd119f3e7/rune.elv
+- https://github.com/ryanjafari/elvish/blob/a75dd1b59a708f8ce4f9652daaf64dacfe581a8f/wguard.elv
+- https://github.com/greenfork/dotfiles/blob/1c8793f3c4bc759e0c53cb76c2213eaa0951750a/.scripts/corona.elv
+- https://github.com/href/dotfiles/blob/cd336e3972872598efb1c762dfdc2be5a19399fd/.elvish/lib/cloudscale.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishCodeInsightTest-completion-variable.elv
+- https://github.com/bpinto/dotfiles/blob/7422fe3e0f8673ab742a056c4f1dd38cb76d9aae/.elvish/rc.elv
+- https://github.com/laher/lunchbox/blob/8ed744b97010e4869ebae9a25386c1cff8377dca/xbar-plugins/Time/worldtimes.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/escaped-double-quoted-string-arbitrary-8char.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/echo-n.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/keyword-as-bareword.elv
+- https://github.com/scoiatael/dotfiles/blob/b50106f6aab886ba0c55befee64e71829834ff23/config/elvish/lib/zoxide.elv
+- https://github.com/wizhi/dot-elvish/blob/dfd29b376788ff8b5835c56c87b26fb345a985e5/lib/dotenv.elv
+- https://github.com/chlorm/elvish-stl/blob/fee64557c35533a354008ef8c9a16d52ef619c8c/regex.elv
+- https://github.com/iwoloschin/elvish-packages/blob/ad75b2f414c11b5ffa4201d10bbe388821895e64/powernerd.elv
+- https://github.com/Champii/elvish-base/blob/088777b5aa3bfcc527b19387c5fb95866635a6db/git.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/try-else.elv
+- https://github.com/SolitudeSF/dot/blob/8e0bc1d85b7586b85c9fcce6145e32e5fed41187/elvish/lib/util.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishUsageProviderTest-lambda-parameter-scope.elv
+- https://github.com/frantic1048/Vanilla/blob/5037a95f5004ce605874342c30167f565a2aa598/bin/bin/fffplaying.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/fn-bare.elv
+- https://github.com/mrozigor/spaceshuttleultra_mirror_import/blob/4490455c3e3bc2af0e19c3f1e36ee35e715d3cf6/Textures/Earth/Elev_mod/15/000628/000675.elv
+- https://github.com/AnthonyBane/TowerDefence/blob/f8746c0a0dd4e385404a5119c7b03bffa4e5c63d/save/mission1.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/CaptIsld.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/lambda-with-option.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/escaped-double-quoted-string-control-1.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishUsageProviderTest-lambda-parameter.elv
+- https://github.com/ckafi/dotfiles/blob/71cb794a636dfe2f28dba33da1ad1818ab9950b2/dot_config/elvish/lib/comp/systemctl.elv
+- https://github.com/jdgoal512/elvish-modules/blob/b6f3f7e2119cec43090312d2a233df2f466dc0bf/csv.elv
+- https://github.com/tcarrio/elvish-modules/blob/01acdc718470d843f1170125f92f2e11661e17d2/weather.elv
+- https://github.com/chlorm/elvish-xdg/blob/765a92e038830fe68a13299c0fdadc8662a3164a/xdg-dirs.elv
+- https://github.com/occivink/mpv-music-player/blob/406866f2efebcc774e06d6a36fea190ee04e4f37/stuff/generate_thumbs.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/yy/xx.elv
+- https://github.com/BeLeap/dotfiles/blob/c752e3952d81e366b8104b1512990f270fd17dbc/elvish/lib/fzf.elv
+- https://github.com/christianharke/dotfiles/blob/3fe5b9de9c7d23f55bf737a5fb3271e51ec051f5/common/elvish/.elvish/rc.elv
+- https://github.com/mullvad/system-transparency/blob/81979e56e4c65e053ae363eec435e1eed7bf8ad5/contrib/initramfs-includes/start_cpu.elv
+- https://github.com/rcabanasdepaz/bayelvira/blob/9ebff5c2cea26e983391617e214ef85774e48086/src/elvira/samples/Enlace%20hacia%20ids/azar_asim.elv
+- https://github.com/aca/dotfiles/blob/0ceab629e91ab2293dcec1c7caaf9e7cfa0ed3bc/.config/elvish/lib/env.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/redirect-with-fd.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/xscreensaver/setup.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/fn-with-option.elv
+- https://github.com/damonseeley/electroland_repos/blob/63b06daf1a5bc2d66e3fc80bf44a867796e7028b/ElVis/depends/regions_old/brad_north.elv
+- https://github.com/Wilfred/difftastic/blob/5a09e9b3f7a388a07eb988a070fbbc5d8f5c3077/sample_files/elvish_before.elv
+- https://github.com/rcabanasdepaz/bayelvira/blob/9ebff5c2cea26e983391617e214ef85774e48086/src/elvira/samples/Enlace%20hacia%20ids/hospi_red.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/try-all.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/capture-with-if.elv
+- https://github.com/zzamboni/elvish-modules/blob/6c9fab60baa9c426d5f51f096d481561f84acf96/bang-bang.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/for-loop-collection.elv
+- https://github.com/mrozigor/spaceshuttleultra_mirror_import/blob/4490455c3e3bc2af0e19c3f1e36ee35e715d3cf6/Textures/Earth/Elev_mod/15/000630/000675.elv
+- https://github.com/zzamboni/elvish-modules/blob/6c9fab60baa9c426d5f51f096d481561f84acf96/iterm2.elv
+- https://github.com/zzamboni/elvish-modules/blob/6c9fab60baa9c426d5f51f096d481561f84acf96/semver.elv
+- https://github.com/laher/lunchbox/blob/96ada8c2385559cdf49d945059e1f1d7189e9264/testdata/plugintest.elv
+- https://github.com/chlorm/textmate-grammar-elvish/blob/dedca6f826188de54cd5e33bdc05b18d8064249b/tests/strings.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/ea402d751dcde6ad1642ac61dca2265dbfc874ec/src/test/resources/com/github/sblundy/elvish/lang/assignment-var-form-err-no-space-before.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/starship/setup.elv
+- https://github.com/NicolasJanWissema/Ecoviz/blob/135e91aa2e38d08dd44961a6daabc1a3ce0b9fac/data/S6000-6000-256.elv
+- https://github.com/kolbycrouch/elvish-libs/blob/2d66f57b935a8dfad229ef5ffa0aa3f65a0a6a7b/pure/log.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/escaped-double-quoted-string-arbitrary-2char.elv
+- https://github.com/frantic1048/Vanilla/blob/a0a356d3cf9f089ebd9e4f362b8cafea2603446d/bin/bin/utf8everywhere.elv
+- https://github.com/joe-batt/elvish-pkgs/blob/a560a11fd2fe241075a42f734544be6e3682865a/multi-select.elv
+- https://github.com/crinklywrappr/rivendell/blob/a9ee37089ef692b07e8ae0a3a532fb7ae56b6856/algo.elv
+- https://github.com/rsteube/carapace/blob/d0dcb783c85164049c07f4fcd888b11c4c86dc52/example/cmd/_test/elvish.elv
+- https://github.com/chlorm/elvish-util-wrappers/blob/8f2f66cbecc507332bb9767d696716c35d107a91/dirmngr.elv
+- https://github.com/UdonNoodleSoup/dotfiles/blob/5b7bb1519bf3d95a06f96053225e37cf6116a622/elvish/lib/github.com/zzamboni/elvish-modules/tty.elv
+- https://github.com/muesli/dotfiles/blob/d4ef30d0b32399f5be8656a67cef43a779439fc4/shell/rc.elv
+- https://github.com/jpaddison3/dotfiles/blob/6a179125e87503b85e04e8deb50badd215c3f7b3/rc.elv
+- https://github.com/starshp/starship/blob/4bcc6ba9e151326f76250bf461408e1426b4757d/src/init/starship.elv
+- https://github.com/zzamboni/elvish-modules/blob/5001e8f75575891b500441bcb121baf47c5a845a/terminal-title.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/variable-ref-builtin-ns.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishUsageProviderTest-ns-var.elv
+- https://github.com/Coordinate-Cat/dotfiles/blob/c5ac60f5b01a5db2345e0920a8151355d274c434/.shell/rc.elv
+- https://github.com/mrozigor/spaceshuttleultra_mirror/blob/caeffa89129ba749061c8e751d254882e21417c4/Textures/Earth/Elev_mod/15/000628/000675.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/redshift/setup.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/MX0204.elv
+- https://github.com/kolbycrouch/elvish-libs/blob/2d66f57b935a8dfad229ef5ffa0aa3f65a0a6a7b/pure/util.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/numeric-cmp-operators.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/assignment-empty-map.elv
+- https://github.com/bpinto/dotfiles/blob/7422fe3e0f8673ab742a056c4f1dd38cb76d9aae/.elvish/lib/prompt.elv
+- https://github.com/BeLeap/dotfiles/blob/6675fc6825b8b7deda2ed5de32205a4e55b709cc/elvish/lib/direnv.elv
+- https://github.com/zzamboni/elvish-completions/blob/230d73b95e29c8af116e1b37a79c9022b1c8fc69/builtins.elv
+- https://github.com/wizhi/elves/blob/17cda224ba561f67bdae22b14c095af4fab0704b/xorg.elv
+- https://github.com/UdonNoodleSoup/dotfiles/blob/5b7bb1519bf3d95a06f96053225e37cf6116a622/elvish/lib/github.com/zzamboni/elvish-modules/test.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/caldera.elv
+- https://github.com/chlorm/elvish-util-wrappers/blob/f2cff9efed6c1011d5ec51060ea4fd4981c73dc9/parted.elv
+- https://github.com/wkennington/config/blob/c5f1da8d747fe7d058cc51b6b3dabb999f5734a4/conf/elvish/rc.elv
+- https://github.com/SolitudeSF/dot/blob/8e0bc1d85b7586b85c9fcce6145e32e5fed41187/elvish/rc.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/Swamp.elv
+- https://github.com/TauferLab/Src_FDS/blob/e1b1301faa80499fd88c73ed99075b410d7da592/data/Elevations_Files/chimmey_tops_dem_1m_utm17n.elv
+- https://github.com/wfxr/csview/blob/62c0a11e7e5370f4f04f0ef0891ddc47c0a6a87b/completions/elvish/csview.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/MX0202.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/highlighting/if-with-pipeline.elv
+- https://github.com/mrozigor/spaceshuttleultra_mirror_import/blob/4490455c3e3bc2af0e19c3f1e36ee35e715d3cf6/Textures/Earth/Elev_mod/15/000582/001739.elv
+- https://github.com/occivink/pyct/blob/0517204eceb9dae53134253ae80a6bb6b9f928ab/contrib/passwords.elv
+- https://github.com/mercuryssh/dotfiles/blob/f95869c837dc7ad8b7f29f5b28c3f22ed6868e4c/.elvish/rc.elv
+- https://github.com/kolbycrouch/elvish-libs/blob/2d66f57b935a8dfad229ef5ffa0aa3f65a0a6a7b/pure/argparse.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishStructureViewFactoryTest-nested-variabletop-level-variable.elv
+- https://github.com/adamchristiansen/dotfiles/blob/8086fc608738839f008b21c58a904ec5a1d729b8/dot_config/exact_elvish/lib/alias.elv
+- https://github.com/tcarrio/elvish-modules/blob/a328b85ffe78783e978579fc7949b6d5b5f98432/git.elv
+- https://github.com/UdonNoodleSoup/dotfiles/blob/5b7bb1519bf3d95a06f96053225e37cf6116a622/elvish/lib/github.com/zzamboni/elvish-modules/spinners-examples.elv
+- https://github.com/tsmanner/elvish-env/blob/5c4b2831c262bf527652bed0002749a8026d2b8f/rc.elv
+- https://github.com/vflanker/ffsend-client/blob/0394579a2dbb767008dc802925cf91b4dece46c5/contrib/completions/ffsend.elv
+- https://github.com/damonseeley/electroland_repos/blob/63b06daf1a5bc2d66e3fc80bf44a867796e7028b/Gotham/install-archive/2012_11_15/ELVIS/depends/gothamRegionTest.elv
+- https://github.com/haxscramper/haxconf/blob/21c5611937a58570824c5f6a0d28edbb9f7a011d/shell/elvish.elv
+- https://github.com/oom-ai/oomplay/blob/770644edd8748c674ef2a0083fe9c659c59d6b43/completions/elvish/oomplay.elv
+- https://github.com/txomon/dotfiles/blob/a3738dfb70abd408563d2cb95de27480bc35997f/.elvish/lib/prompt.elv
+- https://github.com/ckafi/dotfiles/blob/d35c54858fd200ff205e7aff887a12942d2fd3f1/dot_config/elvish/rc.elv
+- https://github.com/splunktest1/Netcool/blob/e6ccb52b437c73b1254aa21e858ebfe27046e613/netcool/omnibus/desktop/default/default.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/variable-ref-base.elv
+- https://github.com/u-root/u-root/blob/1cec665bd3651538007ff27ccdf714e0395ed8d1/vendor/src.elv.sh/pkg/edit/init.elv
+- https://github.com/kolbycrouch/elvish-libs/blob/e13e5aeae6884ef7a83fb2dd98c437554e2814cf/pure/log_test.elv
+- https://github.com/makenowjust/quine/blob/6e1907d7b23a4ce45853ce8346f60ebd325ca894/quine.elv
+- https://github.com/bqv/.dotfiles/blob/271807264fde46b86d8c4450bd8723dad084ec36/.elvish%23%23%25.zeta/rc.elv
+- https://github.com/jdgoal512/dotfiles/blob/0c79e89e85faaf4e07288511f6dc8631804dbdbf/saved_config/elvish/lib/hex.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/newline-after-pipe.elv
+- https://github.com/alloy-d/dotfiles/blob/c3d4e062007d82e6872612759ac6d56545d259a5/.config/elvish/lib/upgraded/asdf.elv
+- https://github.com/taw/100-languages-speedrun/blob/84240d5cb64ad6b1513dc2f4c54e18c5377e70c3/episode-48-elvish/fib.elv
+- https://github.com/nknkt/dotfiles/blob/fd145569d2a48e4c283c42ecbab34cde4083ff45/direnv/test/direnv-test.elv
+- https://github.com/zzamboni/elvish-modules/blob/6c9fab60baa9c426d5f51f096d481561f84acf96/leanpub.elv
+- https://github.com/chlorm/elvish-dotfile-manager/blob/68a5fb720854fb7fd56e7e078320ab27fd0c721e/dotfiles.elv
+- https://github.com/sbinet/dot-config/blob/c341d41470ad49f96804514a7e10a8c028e1c3a5/elvish/rc.elv
+- https://github.com/kolbycrouch/elvish-libs/blob/12c8b18fb64ac4d55510b6be8ef576789fbe0ad5/pure/list_test.elv
+- https://github.com/chlorm/elvish-stl/blob/fee64557c35533a354008ef8c9a16d52ef619c8c/map.elv
+- https://github.com/ELIFE-ASU/gPID/blob/1208a58b741bbd2d03ebae6f0653b2284c1a84ed/scripts/extract.elv
+- https://github.com/QAston/wslconfig/blob/0bf0900118d2f70732f4452115db8c1147cdbb1c/home/portable/broot/completion/br.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/lxqt/setup.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/lxqt/panel/setup.elv
+- https://github.com/yashkirr/EcoViz/blob/40b8b61d5dfb222df08ec682c708c37c143d2cfd/EcoViz%20Data/S2000-2000-512.elv
+- https://github.com/brunoroque06/dotfiles/blob/fd8a9c6fe367721f87e7757b52ea81388f4019c4/elvish/rc.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/lambda.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/command-arg-with-leading-plus.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishStructureViewFactoryTest-nesting-function.elv
+- https://github.com/chlorm/textmate-grammar-elvish/blob/059455922e769e1a64885090a7e5f987473583c3/tests/line-continuation.elv
+- https://github.com/ezh/elvish-bash-completion/blob/b40055b88c6d8ad77679e77aea6098d07c032982/helm.elv
+- https://github.com/togoAIO/V0_DOKUD365/blob/450d62d6fa7253116c3207bcb39f4f6e7295528a/obj/.cache/build/2edqtmdf.lnt/xhnr5dxd.elv
+- https://github.com/jdgoal512/dotfiles/blob/0c79e89e85faaf4e07288511f6dc8631804dbdbf/saved_config/elvish/lib/csv.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishUsageProviderTest-local-scope-ref.elv
+- https://github.com/zzamboni/dot-elvish/blob/addf6ef178204f237c2cf2f8e24b8e84ba64790b/aliases/ss.elv
+- https://github.com/jdgoal512/elvish-modules/blob/b6f3f7e2119cec43090312d2a233df2f466dc0bf/completions/pass.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/compound-expression-command.elv
+- https://github.com/wizhi/dot-elvish/blob/0c8e81d277b3dee0ee605fdc1a7ca1492e7472eb/lib/prompts/kcr.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/escaped-double-quoted-string-t.elv
+- https://github.com/mrozigor/spaceshuttleultra_mirror_import/blob/4490455c3e3bc2af0e19c3f1e36ee35e715d3cf6/Textures/Earth/Elev_mod/13/000333/000200.elv
+- https://github.com/dmix/elvish.vim/blob/67ef8e89bff7cb8ea936f2164c8c268bbb3295f0/test.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/firefox/setup.elv
+- https://github.com/Saad00x/dotfiles-saad/blob/7593f13da57bad2fa4a20769a9b5e87b176fdc15/Nord/.elvish/rc.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/ea402d751dcde6ad1642ac61dca2265dbfc874ec/src/test/resources/com/github/sblundy/elvish/lang/assignment-multi-var-form.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/mx0103.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/for-loop.elv
+- https://github.com/mrozigor/spaceshuttleultra_mirror/blob/caeffa89129ba749061c8e751d254882e21417c4/Textures/Earth/Elev_mod/15/000629/000675.elv
+- https://github.com/tcarrio/elvish-modules/blob/c49b12afd03f6ecf4c2626cb41d2891c2f500e11/reset.elv
+- https://github.com/chlorm/textmate-grammar-elvish/blob/059455922e769e1a64885090a7e5f987473583c3/tests/command-substitution.elv
+- https://github.com/jtlowe/studio-icons/blob/5624f0347c619a895b7ce574139875bf2ec0329d/test/extensions/_.elv
+- https://github.com/UdonNoodleSoup/dotfiles/blob/5b7bb1519bf3d95a06f96053225e37cf6116a622/elvish/lib/github.com/zzamboni/elvish-modules/leanpub.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/HvrDmmt.elv
+- https://github.com/kolbycrouch/elvish-libs/blob/2d66f57b935a8dfad229ef5ffa0aa3f65a0a6a7b/pure/lazy.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/rust.elv
+- https://github.com/sblundy/elvish-chain-theme/blob/2d3376a87d95886899ef01d7e7c7048ff1cc5be6/segments.elv
+- https://github.com/bpinto/dotfiles/blob/7422fe3e0f8673ab742a056c4f1dd38cb76d9aae/.elvish/git-prompt.elv
+- https://github.com/UdonNoodleSoup/dotfiles/blob/5b7bb1519bf3d95a06f96053225e37cf6116a622/elvish/lib/github.com/zzamboni/elvish-modules/opsgenie.elv
+- https://github.com/jdgoal512/life/blob/b274076482a436301c08cacf0a4d655e9cd9453b/life.elv
+- https://github.com/jdgoal512/dotfiles/blob/0c79e89e85faaf4e07288511f6dc8631804dbdbf/saved_config/elvish/lib/binary.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/highlighting/assignment-exception-capture.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/ea402d751dcde6ad1642ac61dca2265dbfc874ec/src/test/resources/com/github/sblundy/elvish/lang/variable-ref-single-quoted-var.elv
+- https://github.com/elves/elvish/blob/ab699bae8703af6fd7332aaa61e56072b1b0bb7b/pkg/mods/epm/epm.elv
+- https://github.com/halostatue/dotfiles/blob/c5831c0fc01761db1941d44717f0a92d4aedb98c/private_dot_elvish/aliases/more.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/delete-local-ns-variable.elv
+- https://github.com/mrozigor/spaceshuttleultra_mirror/blob/caeffa89129ba749061c8e751d254882e21417c4/Textures/Earth/Elev_mod/15/000628/000676.elv
+- https://github.com/chlorm/elvish-stl/blob/2f43f4ab7cc4478b086d31a3cc9d877ca02a4be7/platform.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/nerdfonts.elv
+- https://github.com/larkwiot/tools/blob/fcc9e4bcbed0911156421640c2c633fc4a2bd522/old/util.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/yy.elv
+- https://github.com/occivink/config/blob/5c2700ad2d40d72e32af76e6e5e16a3664b14cc1/.config/elvish/lib/bindings.elv
+- https://github.com/frantic1048/Vanilla/blob/e659c9e27bebe00be7312aec76a22ffd6e811815/elvish/.elvish/lib/kokkoro.elv
+- https://github.com/kolbycrouch/elvish-libs/blob/d69a5d8859042e0819bcc10c97930da3e435302f/pure/map_test.elv
+- https://github.com/laher/lunchbox/blob/b8d31d5220a8d9cf38719d5e52863e83e9e78fec/xbar-plugins/Weather/openweathermap.elv
+- https://github.com/mrozigor/spaceshuttleultra_mirror/blob/caeffa89129ba749061c8e751d254882e21417c4/Textures/Earth/Elev_mod/13/000333/000200.elv
+- https://github.com/canelhasmateus/ormos/blob/d812c399366bde5ae318a863a2d4fc16f03aa493/software/other/elvish/elvish.elv
+- https://github.com/chlorm/elvish-util-wrappers/blob/53f1cda79db1c4b311935b43df09ac6cf63a6eb7/cryptsetup.elv
+- https://github.com/cherryblossom000/advent-of-code-2021/blob/4d9f2dd1dab4bafc11ace98cea4ed754f916a447/01/main.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishUsageProviderTest-lambda-parameter-1st.elv
+- https://github.com/eikek/dotfiles/blob/bc49ee24933b1d7fbb4de4a78c9b6348edc55b6e/elvish/.elvish/lib/h264.elv
+- https://github.com/chlorm/elvish-stl/blob/2f43f4ab7cc4478b086d31a3cc9d877ca02a4be7/utils.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/fn-with-option-empty-map.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/escaped-double-quoted-string-arbitrary-4char.elv
+- https://github.com/TomNWainwright/dotfiles/blob/4d21ffc9c7b05312a3138833957a928ce7e36bbc/dotfiles/elvish/aliases/cd.elv
+- https://github.com/rcabanasdepaz/bayelvira/blob/9ebff5c2cea26e983391617e214ef85774e48086/src/elvira/samples/ids/hospi_red2.elv
+- https://github.com/ajeetdsouza/zoxide/blob/b71d33b5c128744e331aa2dfd21dc39b8821a5f1/contrib/completions/zoxide.elv
+- https://github.com/frantic1048/Vanilla/blob/38f11e66585af6bb58d66f5e80e592783d7be770/bin/bin/journalctl-filter-process.elv
+- https://github.com/SolitudeSF/dot/blob/8e0bc1d85b7586b85c9fcce6145e32e5fed41187/elvish/lib/config.elv
+- https://github.com/href/elvish-gitstatus/blob/23888d94dab69f1f4b92a71fceb804d0762e7d9a/gitstatus.elv
+- https://github.com/chimay/configuration/blob/f058439efe4aadfcd0e9420900927ab27d91bb01/elvish/rc.elv
+- https://github.com/uranusjr/dotfiles/blob/cbaf96f0f58706dba6919b1385ba3a125ae61611/files/elvish/sites/tp-sb-wsl.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/MX0305.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/braced-list.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/slice-multi-index.elv
+- https://github.com/blurname/Nyx/blob/7438b56027224267a594968f3e4b50699e8cc1e2/config/.elvish/rc.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/ufw.elv
+- https://github.com/Champii/elvish-base/blob/088777b5aa3bfcc527b19387c5fb95866635a6db/fs.elv
+- https://github.com/iwoloschin/elvish-packages/blob/ad75b2f414c11b5ffa4201d10bbe388821895e64/python.elv
+- https://github.com/chlorm/textmate-grammar-elvish/blob/059455922e769e1a64885090a7e5f987473583c3/tests/modules.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/DValley.elv
+- https://github.com/joe-batt/elvish-pkgs/blob/a560a11fd2fe241075a42f734544be6e3682865a/parse.elv
+- https://github.com/crinklywrappr/rivendell/blob/e49f5c5274950b95e730fdf364e234973d9bf438/test.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/m0101.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/pipeline.elv
+- https://github.com/crinklywrappr/rivendell/blob/f424c45a7a880f7b3286e4a6d7c6664a5e485bf0/gendoc.elv
+- https://github.com/denisidoro/navi/blob/153d081d40567d9aa8e2fb99d1f798491cabcf4a/shell/navi.plugin.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/bool-map-key.elv
+- https://github.com/mrozigor/spaceshuttleultra_mirror/blob/caeffa89129ba749061c8e751d254882e21417c4/Textures/Earth/Elev_mod/13/000307/000111.elv
+- https://github.com/ilmaria/dotfiles/blob/862c1949a8ce148a562dded2bba75b04e5c64e81/.elvish/rc.elv
+- https://github.com/mullvad/system-transparency/blob/81979e56e4c65e053ae363eec435e1eed7bf8ad5/contrib/initramfs-includes/netsetup.elv
+- https://github.com/wizhi/dot-elvish/blob/bef922e17dbba321143f236e0727644cf4c18635/prompt.elv
+- https://github.com/chlorm/elvish-ssh/blob/c454f9db959432b6b92f4016e9c8ffbda4996c1e/init-session.elv
+- https://github.com/rcabanasdepaz/bayelvira/blob/9ebff5c2cea26e983391617e214ef85774e48086/src/elvira/samples/Enlace%20hacia%20ids/car_asim.elv
+- https://github.com/muesli/elvish-libs/blob/3d57aba0c8d1623e0e574e04dee21f146e8cbe8a/theme/muesli.elv
+- https://github.com/kolbycrouch/elvish-libs/blob/12c8b18fb64ac4d55510b6be8ef576789fbe0ad5/pure/type.elv
+- https://github.com/chlorm/elvish-stl/blob/fee64557c35533a354008ef8c9a16d52ef619c8c/io.elv
+- https://github.com/rcabanasdepaz/bayelvira/blob/9ebff5c2cea26e983391617e214ef85774e48086/src/elvira/samples/Enlace%20hacia%20ids/hospi_red2.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/variable-ref-local-ns.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/logics-and.elv
+- https://github.com/wizhi/dot-elvish/blob/adc634b97645a588285e66fe6ba35fc9b2428a2e/lib/prompts/git.elv
+- https://github.com/L3afMe/dots/blob/5c0609c4880233af414b995d4dee11a5a2fed98c/home/elvish/screenshot-selection.elv
+- https://github.com/larkwiot/tools/blob/fcc9e4bcbed0911156421640c2c633fc4a2bd522/old/time.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/use-rename.elv
+- https://github.com/KSXGitHub/strip-ansi-cli/blob/634998ea8c8fb142cc0eb9cabe2c5d62d92beeed/exports/completion.elv
+- https://github.com/epi052/feroxbuster/blob/07a7ac652ef827758211d1b0255b04118badee26/shell_completions/feroxbuster.elv
+- https://github.com/kolbycrouch/elvish-libs/blob/12c8b18fb64ac4d55510b6be8ef576789fbe0ad5/pure/list.elv
+- https://github.com/elves/elvish/blob/097e32b375b4d8e0fb3852b5cc6fea9c104fe529/tools/imports-graph.elv
+- https://github.com/txomon/dotfiles/blob/a3738dfb70abd408563d2cb95de27480bc35997f/.elvish/lib/direnv.elv
+- https://github.com/zzamboni/elvish-modules/blob/6c9fab60baa9c426d5f51f096d481561f84acf96/proxy.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/assignment-map-compound-key.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/logics-or.elv
+- https://github.com/adamchristiansen/dotfiles/blob/8086fc608738839f008b21c58a904ec5a1d729b8/dot_config/exact_elvish/lib/profile.elv
+- https://github.com/mrozigor/spaceshuttleultra_mirror_import/blob/4490455c3e3bc2af0e19c3f1e36ee35e715d3cf6/Textures/Earth/Elev_mod/13/000132/000525.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/ea402d751dcde6ad1642ac61dca2265dbfc874ec/src/test/resources/com/github/sblundy/elvish/lang/assignment-declaration-form.elv
+- https://github.com/SolitudeSF/dot/blob/38f5e03a92a448a7d84ebed114226b398dbeb75b/elvish/lib/git.elv
+- https://github.com/chlorm/textmate-grammar-elvish/blob/e61892150461af3e33357cb3d1d00ed1b7ae5fb6/tests/operators.elv
+- https://github.com/larkwiot/tools/blob/fcc9e4bcbed0911156421640c2c633fc4a2bd522/old/cd.elv
+- https://github.com/sblundy/elvish-chain-theme/blob/2d3376a87d95886899ef01d7e7c7048ff1cc5be6/styling.elv
+- https://github.com/chmouel/tkn-watch/blob/0eec56e0156b8263beb89df8f5fe8f99c7cb17dd/misc/completions/tkn-watch.elv
+- https://github.com/tcarrio/elvish-modules/blob/01acdc718470d843f1170125f92f2e11661e17d2/homebrew.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishCodeInsightTest-completion-imported-ns-var-ref.elv
+- https://github.com/BeLeap/dotfiles/blob/f3371c6114ad2f3beb61c4d602c8cc216a016eb9/elvish/lib/git.elv
+- https://github.com/zzamboni/elvish-modules/blob/6c9fab60baa9c426d5f51f096d481561f84acf96/long-running-notifications.elv
+- https://github.com/rcabanasdepaz/bayelvira/blob/9ebff5c2cea26e983391617e214ef85774e48086/src/elvira/samples/ids/hospi_red.elv
+- https://github.com/UdonNoodleSoup/dotfiles/blob/5b7bb1519bf3d95a06f96053225e37cf6116a622/elvish/lib/github.com/zzamboni/elvish-modules/proxy.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishCodeInsightTest-completion-ns-var-ref.elv
+- https://github.com/chlorm/elvish-as-default-shell/blob/7b577e239ed6fbe5be65183bcd43f28bf40c06fb/default-shell.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/pacman/setup.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/assignment-then-command.elv
+- https://github.com/zzamboni/elvish-completions/blob/8e27f28b183c7b2ced1a2fe01e5599b6f5050fb8/comp.elv
+- https://github.com/rcabanasdepaz/bayelvira/blob/9ebff5c2cea26e983391617e214ef85774e48086/src/elvira/samples/Enlace%20hacia%20ids/id_rand63.elv
+- https://github.com/UdonNoodleSoup/dotfiles/blob/5b7bb1519bf3d95a06f96053225e37cf6116a622/elvish/lib/github.com/zzamboni/elvish-modules/prompt-hooks.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/highlighting/assignment-chained-range.elv
+- https://github.com/muesli/elvish-libs/blob/f8da67239fb8fc6b5fe084386595200416ec0396/git.elv
+- https://github.com/chlorm/elvish-term/blob/0f372c1133eb097dfb4f4d69b5f4b8c6d9b773a9/scripts/generate-ansi.elv
+- https://github.com/KSXGitHub/build-fs-tree/blob/8347d4b626862cd1e62b7b2909336afb71421299/exports/completion.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/highlighting/assignment-bareword.elv
+- https://github.com/tcarrio/elvish-modules/blob/9b0c76336144c518d6336036d3e918bb42da194f/flutter.elv
+- https://github.com/href/dotfiles/blob/3be284c3be938c9d9ece149847e1450c761d709d/.elvish/lib/utils.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/use-path.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishRefactoringTest-rename-var-after.elv
+- https://github.com/chlorm/elvish-ssh/blob/9c692452aa947e6d1910358ef5295623055b0b01/gpg-agent.elv
+- https://github.com/eccentric-j/dotfiles/blob/2f686a3d6e42e3cb1ee8334bd4de4482018fe5c3/elvish/rc.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishRefactoringTest-rename-fn.elv
+- https://github.com/TomNWainwright/dotfiles/blob/4d21ffc9c7b05312a3138833957a928ce7e36bbc/dotfiles/elvish/rc.elv
+- https://github.com/frantic1048/Vanilla/blob/e659c9e27bebe00be7312aec76a22ffd6e811815/bin/bin/fffjpg.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/assignment-command-error.elv
+- https://github.com/chlorm/elvish-auto-env/blob/ae0917e25c67bf63545df5975f635484d0d87700/ls.elv
+- https://github.com/TauferLab/Src_FDS/blob/803a97cd7e4b812fcfa74d0038b78d8a9b5d3a76/data/Elevations_Files/gatlinburg_res_1x1.elv
+- https://github.com/greenfork/dotfiles/blob/1c8793f3c4bc759e0c53cb76c2213eaa0951750a/.elvish/rc.elv
+- https://github.com/mrozigor/spaceshuttleultra_mirror/blob/caeffa89129ba749061c8e751d254882e21417c4/Textures/Earth/Elev_mod/13/000132/000526.elv
+- https://github.com/Coordinate-Cat/multiple-shell-mode-system/blob/6a0c2807d1cb69ccc1afce0e72ab2ef39c99b1b2/rc.elv
+- https://github.com/ryanjafari/elvish/blob/a75dd1b59a708f8ce4f9652daaf64dacfe581a8f/subnet.elv
+- https://github.com/dglmoore/elvish-libs/blob/626dbb65407e88b825ce1596c301fa9d8cf61e54/upload.elv
+- https://github.com/rcabanasdepaz/bayelvira/blob/9ebff5c2cea26e983391617e214ef85774e48086/src/elvira/samples/ids/rand1/id_rand63.elv
+- https://github.com/halostatue/dotfiles/blob/c5831c0fc01761db1941d44717f0a92d4aedb98c/private_dot_elvish/aliases/cdb.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishUsageProviderTest-museli-git.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishCodeInsightTest-completion-builtin-var-ref.elv
+- https://github.com/damonseeley/electroland_repos/blob/63b06daf1a5bc2d66e3fc80bf44a867796e7028b/NoHo/install-archive/2010_01_27-DRIVEBY2010/depends/noho_south_vs02_2_regions.elv
+- https://github.com/aca/dotfiles/blob/4b80762bea7e171e4e23bbfe74ebb9305ea8d821/.config/elvish/lib/list.elv
+- https://github.com/damonseeley/electroland_repos/blob/63b06daf1a5bc2d66e3fc80bf44a867796e7028b/Gotham/install-archive/2013_05_20-BG-DS-tweaks/ELVIS/depends/gothamRegionTest.elv
+- https://github.com/gretel/dotfiles/blob/a94b4f7af4afd41b06ce83cfd610082ba5fbcc20/.elvish/rc.elv
+- https://github.com/ezh/elvish-bash-completion/blob/2892d05e6add33ad8c9847fc61ec57e2c0dddff3/kubectl.elv
+- https://github.com/kirkendall/shiftcal/blob/7931f4e89510de678e388ede82c294b51c43e191/php.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/mp0706.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/echo.elv
+- https://github.com/elves/elvish/blob/14ad776bf46a843d3bc19877b68be7e1e28d65de/vscode/sample.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishUsageProviderTest-local-var-scope.elv
+- https://github.com/Worble/elvish-bootstrap/blob/8f2ad2bc86488a102a85b4442e7c8ac101f5fe4e/firefox/policies.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/compound-expression-with-slash.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/assignment-command.elv
+- https://github.com/piranha/conf/blob/b21a1014519e40dcce57d6a7de23784df131f787/rc.elv
+- https://github.com/chlorm/elvish-ssh/blob/9c692452aa947e6d1910358ef5295623055b0b01/gnome-keyring.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/m0404.elv
+- https://github.com/dwoffinden/dotfiles/blob/f6482c9a1c41730038dbfa82ffa0d5f7e9ee4643/.elvish/rc.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishUsageProviderTest-builtin-ns.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishCodeInsightTest-completion-up-ns-var-ref.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishCodeInsightTest-completion-function.elv
+- https://github.com/bpinto/dotfiles/blob/7422fe3e0f8673ab742a056c4f1dd38cb76d9aae/.elvish/lib/docker.elv
+- https://github.com/taw/100-languages-speedrun/blob/84240d5cb64ad6b1513dc2f4c54e18c5377e70c3/episode-48-elvish/fib2.elv
+- https://github.com/Champii/elvish-base/blob/088777b5aa3bfcc527b19387c5fb95866635a6db/bindings.elv
+- https://github.com/mrozigor/spaceshuttleultra_mirror_import/blob/4490455c3e3bc2af0e19c3f1e36ee35e715d3cf6/Textures/Earth/Elev_mod/15/000583/001739.elv
+- https://github.com/u-root/u-root/blob/1cec665bd3651538007ff27ccdf714e0395ed8d1/vendor/src.elv.sh/pkg/mods/epm/epm.elv
+- https://github.com/rohankumardubey/zoxide/blob/17365710af7cfb9cfe0030756ac31ffae4286436/contrib/completions/zoxide.elv
+- https://github.com/lovebaihezi/.elvish/blob/6aaa00191eb5c4f3a0ab49a592f006f4fd42d014/rc.elv
+- https://github.com/meisterluk/os_install/blob/2840dcd2bd9dd15975349d434d413940f6cd5cc0/files/rc.elv
+- https://github.com/jtmoulia/dotfiles/blob/d218e3f0d4e8038a49c1baae2202a43ab61de947/playbooks/roles/backup/files/backitup.elv
+- https://github.com/UdonNoodleSoup/dotfiles/blob/5b7bb1519bf3d95a06f96053225e37cf6116a622/elvish/lib/github.com/zzamboni/elvish-modules/atlas.elv
+- https://github.com/uranusjr/dotfiles/blob/aff134f8664a05b5d517fc2339e6e9a7232331be/files/elvish/lib/pathx.elv
+- https://github.com/chmouel/snazy/blob/26f451fac0e9cbd5c5f97ce911b5b0403209a50d/misc/completions/snazy.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/if-with-cmp.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishUsageProviderTest-use-in-fn-body.elv
+- https://github.com/href/dotfiles/blob/3be284c3be938c9d9ece149847e1450c761d709d/.elvish/lib/history.elv
+- https://github.com/MisterJaJo/elvish-coreutils-compl-gen/blob/b5ad762d1d01457a5696abae34fb08ca823d738d/complete.elv
+- https://github.com/Xjs/config-files/blob/797770de79ea6bb05f8cb7e559a3b1894113e15f/.elvish/rc.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/ea402d751dcde6ad1642ac61dca2265dbfc874ec/src/test/resources/com/github/sblundy/elvish/lang/variable-ref-double-quoted-var.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/escaped-double-quoted-string-b.elv
+- https://github.com/zzamboni/elvish-modules/blob/6016981c0533ce7ccedbad3c1641e5b85f7f679c/git-vcsh.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/use-nested.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/escaped-double-quoted-string-quotes.elv
+- https://github.com/chlorm/elvish-util-wrappers/blob/7add2b4a476c9ac73117bf442364e8b3f67c2654/power.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/pipeline-semicolon.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/assignment-double-quoted-string.elv
+- https://github.com/muesli/dotfiles/blob/d4ef30d0b32399f5be8656a67cef43a779439fc4/shell/rc_private.elv
+- https://github.com/frantic1048/Vanilla/blob/e659c9e27bebe00be7312aec76a22ffd6e811815/elvish/.elvish/lib/%E3%82%AB%E3%83%95%E3%82%A7%E3%83%A9%E3%83%86%E3%83%BB%E3%82%AB%E3%83%95%E3%82%A7%E3%83%A2%E3%82%AB%E3%83%BB%E3%82%AB%E3%83%97%E3%83%81%E3%83%BC%E3%83%8E/prompt.elv
+- https://github.com/laher/lunchbox/blob/8f11086a2b8a7951ec5660ed80d82d322bf080ac/elvish/lunchbox.elv
+- https://github.com/bpinto/dotfiles/blob/7422fe3e0f8673ab742a056c4f1dd38cb76d9aae/.elvish/lib/node.elv
+- https://github.com/href/dotfiles/blob/867926da86b2b364ba3dd8f500fd82ecd316bb1c/.elvish/lib/iterm2.elv
+- https://github.com/sauyon/dotfiles/blob/2c0cd0908cb0dbee5f01771d9da021bbf03e6847/.config/elvish/rc.elv
+- https://github.com/dglmoore/elvish-libs/blob/8b119ec4e78a8350737772b487429b81ae451a21/ppd.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/mx0302.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/mx0201.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/redirect-var.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/assignment-newline-multi.elv
+- https://github.com/TomNWainwright/dotfiles/blob/4d21ffc9c7b05312a3138833957a928ce7e36bbc/dotfiles/elvish/aliases/echob.elv
+- https://github.com/wvanisb/dotfiles/blob/8301b7254d49c0e8cdeb50c1b65c48631edccc08/software/nnn-4.5/misc/quitcd/quitcd.elv
+- https://github.com/XAMPPRocky/tokei/blob/446f55fa5efdc5f411b9fd963ca1eb95ba5b19f2/tests/data/elvish.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/setup.elv
+- https://github.com/UdonNoodleSoup/dotfiles/blob/5b7bb1519bf3d95a06f96053225e37cf6116a622/elvish/lib/github.com/zzamboni/elvish-modules/tinytex.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/lxqt/config/setup.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/MouseTrp.elv
+- https://github.com/adamchristiansen/dotfiles/blob/ee069a4d44a7dd9b588274289a6549e089f7573e/dot_config/exact_elvish/lib/vertical.elv
+- https://github.com/zzamboni/elvish-modules/blob/6c9fab60baa9c426d5f51f096d481561f84acf96/dir.elv
+- https://github.com/txomon/dotfiles/blob/ef33ec84983c7910288909abf2f888144fa04f86/.env-vars/theme.env.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/network/setup.elv
+- https://github.com/austinjones/tab-rs/blob/72a1e01237f9d1266a78e28dc08eb9b9d21763e6/tab/src/completions/elvish/tab.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/while-loop-assignment-body.elv
+- https://github.com/zzamboni/cf-learn.info/blob/d8cc6111b063cb79fbdd2f389b0ab143d2555b79/update-hugo.elv
+- https://github.com/ckafi/dotfiles/blob/71cb794a636dfe2f28dba33da1ad1818ab9950b2/dot_config/elvish/lib/comp/pacman.elv
+- https://github.com/UdonNoodleSoup/dotfiles/blob/5b7bb1519bf3d95a06f96053225e37cf6116a622/elvish/lib/github.com/href/elvish-gitstatus/gitstatus.elv
+- https://github.com/UdonNoodleSoup/dotfiles/blob/5b7bb1519bf3d95a06f96053225e37cf6116a622/elvish/lib/github.com/zzamboni/elvish-modules/util.elv
+- https://github.com/zzamboni/elvish-modules/blob/e6a870f4659720697a54173b77cb6ccee989e5d7/spinners-examples.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishCodeInsightTest-completion-up-ns-command.elv
+- https://github.com/kolbycrouch/elvish-libs/blob/12c8b18fb64ac4d55510b6be8ef576789fbe0ad5/pure/type_test.elv
+- https://github.com/Kingsy/dwm_status/blob/1bdd3ac5e2a4ed2539b8abdc4e33c7bc93f10a88/dwm_status.elv
+- https://github.com/UdonNoodleSoup/dotfiles/blob/5b7bb1519bf3d95a06f96053225e37cf6116a622/elvish/lib/github.com/zzamboni/elvish-modules/long-running-notifications.elv
+- https://github.com/BeLeap/dotfiles/blob/ced0ed87d48fc69a7b38daaf35221e650a21b219/elvish/lib/work.elv
+- https://github.com/halostatue/dotfiles/blob/c5831c0fc01761db1941d44717f0a92d4aedb98c/private_dot_elvish/aliases/cd.elv
+- https://github.com/lovebaihezi/.elvish/blob/c74df2467af1ada86e828d6ad150ce9735597560/setup.elv
+- https://github.com/bujnlc8/qcloud/blob/767a3f49338603d0385212d69c8cb2e3959f4d8b/shell-completions/qcloud.elv
+- https://github.com/joe-batt/elvish-pkgs/blob/e112838afd4527ff65258e08cc5716c55234fd62/path-exp.elv
+- https://github.com/elves/elvish/blob/003557c22a913f81400927460f441cfcc84c8952/pkg/edit/init.elv
+- https://github.com/szclsya/elvish-modules/blob/625a9ce9888753727e85121c2c56699dd368fd51/fun.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/command-with-escaped-string.elv
+- https://github.com/TomNWainwright/dotfiles/blob/4d21ffc9c7b05312a3138833957a928ce7e36bbc/dotfiles/elvish/aliases/pipi.elv
+- https://github.com/bvaudour/kcp/blob/6d102ac745eed241a74519724caefde46d2451e7/generate_pot.elv
+- https://github.com/sauyon/dotfiles/blob/fa102cd281907d949fe097ab27c2e1a8a6042ee9/.config/elvish/alias.elv
+- https://github.com/zzamboni/elvish-completions/blob/230d73b95e29c8af116e1b37a79c9022b1c8fc69/evemu.elv
+- https://github.com/jdgoal512/dotfiles/blob/0c79e89e85faaf4e07288511f6dc8631804dbdbf/saved_config/elvish/rc.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishRefactoringTest-rename-ns-var.elv
+- https://github.com/hpehl/mcup/blob/155d042ce745e8732f39239c2607f2047a71bb89/completions/mcup.elv
+- https://github.com/iwoloschin/elvish-packages/blob/ad75b2f414c11b5ffa4201d10bbe388821895e64/update.elv
+- https://github.com/asdf-vm/asdf/blob/5a89563c0a37f244fa3daa46c5100b7711edde1d/asdf.elv
+- https://github.com/chlorm/elvish-ssh/blob/9c692452aa947e6d1910358ef5295623055b0b01/ssh-agent.elv
+- https://github.com/chlorm/textmate-grammar-elvish/blob/059455922e769e1a64885090a7e5f987473583c3/tests/lambda.elv
+- https://github.com/spider-explorer/spider/blob/42410d142aff322e25e6773c5fde72b789e2606b/pack.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/assignment-list.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/comment.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/m0506.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/if-2elif-else-statement.elv
+- https://github.com/mwallner/rocolatey/blob/d149eec99c329e6fe725153485767018965b4b38/rocolatey-cli/completions/roco.elv
+- https://github.com/laher/lunchbox/blob/c82dbb4f21d43ec52919a82bc94b045333f1f2b1/elvish/util/dotenv.elv
+- https://github.com/UdonNoodleSoup/dotfiles/blob/5b7bb1519bf3d95a06f96053225e37cf6116a622/elvish/aliases/ls.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/install.elv
+- https://github.com/alloy-d/dotfiles/blob/c3d4e062007d82e6872612759ac6d56545d259a5/.config/elvish/lib/base16.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/escaped-double-quoted-string-v.elv
+- https://github.com/starship/starship/blob/538329d9b406cd6358d0fe31d58e0c9f578ceffa/src/init/starship.elv
+- https://github.com/frantic1048/Vanilla/blob/c916a75c1403970026ded9254faeb599b417133f/bin/bin/ffflockscreen.elv
+- https://github.com/rcabanasdepaz/bayelvira/blob/9ebff5c2cea26e983391617e214ef85774e48086/src/elvira/samples/Enlace%20hacia%20ids/rand1/id_rand63.elv
+- https://github.com/larkwiot/tools/blob/fcc9e4bcbed0911156421640c2c633fc4a2bd522/old/comp.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/escaped-double-quoted-string-f.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/command-continuation.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/assignment-rest-var.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/use-relative.elv
+- https://github.com/zzamboni/elvish-modules/blob/6016981c0533ce7ccedbad3c1641e5b85f7f679c/util.elv
+- https://github.com/rcabanasdepaz/bayelvira/blob/9ebff5c2cea26e983391617e214ef85774e48086/src/elvira/samples/ids/hospi_red3.elv
+- https://github.com/UdonNoodleSoup/dotfiles/blob/5b7bb1519bf3d95a06f96053225e37cf6116a622/elvish/lib/github.com/zzamboni/elvish-modules/spinners.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/Map0101A.elv
+- https://github.com/system-transparency/system-transparency/blob/5bd47829820072e0f7947c3c82242abdff0760e4/contrib/initramfs-includes/netsetup.elv
+- https://github.com/UdonNoodleSoup/dotfiles/blob/5b7bb1519bf3d95a06f96053225e37cf6116a622/elvish/lib/github.com/zzamboni/elvish-modules/git-vcsh.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/assignment-single-quoted-string.elv
+- https://github.com/kraken-hpc/kraken-layercake/blob/e425f224d716c132bedbbb98b0d1de3b1751d25b/examples/vbox-layer0/support/base/.elvish/rc.elv
+- https://github.com/occivink/config/blob/5c2700ad2d40d72e32af76e6e5e16a3664b14cc1/.config/elvish/lib/mofafegoli.elv
+- https://github.com/williamgoods/CreateCppProject/blob/71f44e3f0d4d2b757d10d4617e3363faffc77d80/.scripts/build.elv
+- https://github.com/wizhi/elves/blob/1b494063ecc4879f6543cb152d6f9f236238330b/dotenv.elv
+- https://github.com/TauferLab/Src_FDS/blob/9fe2125eeee09236b20f3de8b9ca5dc6a47c0035/data/Elevations_Files/gatlinburg_res_2x2.elv
+- https://github.com/yashkirr/EcoViz/blob/40b8b61d5dfb222df08ec682c708c37c143d2cfd/EcoViz%20Data/S4500-4500-1024.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/highlighting/fn-with-special-scope.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/if-with-varable.elv
+- https://github.com/damonseeley/electroland_repos/blob/63b06daf1a5bc2d66e3fc80bf44a867796e7028b/NoHo/install-archive/2010_01_27-DRIVEBY2010/depends/noho_south_vs01.elv
+- https://github.com/adamchristiansen/dotfiles/blob/8086fc608738839f008b21c58a904ec5a1d729b8/dot_config/exact_elvish/lib/abbr.elv
+- https://github.com/zzamboni/elvish-modules/blob/6c9fab60baa9c426d5f51f096d481561f84acf96/tinytex.elv
+- https://github.com/Kingsy/dwm_status/blob/1bdd3ac5e2a4ed2539b8abdc4e33c7bc93f10a88/lib/dwm_network.elv
+- https://github.com/rcabanasdepaz/bayelvira/blob/9ebff5c2cea26e983391617e214ef85774e48086/src/elvira/samples/ids/hospi_red_red.elv
+- https://github.com/mrozigor/spaceshuttleultra_mirror_import/blob/4490455c3e3bc2af0e19c3f1e36ee35e715d3cf6/Textures/Earth/Elev_mod/13/000132/000526.elv
+- https://github.com/scoiatael/dotfiles/blob/b50106f6aab886ba0c55befee64e71829834ff23/config/elvish/lib/direnv.elv
+- https://github.com/laher/lunchbox/blob/b8d31d5220a8d9cf38719d5e52863e83e9e78fec/xbar-plugins/Dev/docker-compose.elv
+- https://github.com/tcarrio/elvish-modules/blob/01acdc718470d843f1170125f92f2e11661e17d2/net.elv
+- https://github.com/emilefraser/PyroType/blob/0a1a893214846de838822d164c12acb6b49c7ce6/test/extensions/_.elv
+- https://github.com/rachitrathi98/COP-5615-Distributed-Operating-Systems/blob/c0e8d749c35b87d33594f824e1f25177a16a1be3/Twitter_Engine_Web_Sockets/bin/Debug/netcoreapp3.1/_temporary_compressed_files/s34m5odn.elv
+- https://github.com/chlorm/elvish-stl/blob/2f43f4ab7cc4478b086d31a3cc9d877ca02a4be7/wrap.elv
+- https://github.com/jdgoal512/elvish-modules/blob/b6f3f7e2119cec43090312d2a233df2f466dc0bf/string.elv
+- https://github.com/frantic1048/Vanilla/blob/a0a356d3cf9f089ebd9e4f362b8cafea2603446d/bin/bin/fffwebp.elv
+- https://github.com/chlorm/elvish-util-wrappers/blob/7add2b4a476c9ac73117bf442364e8b3f67c2654/git.elv
+- https://github.com/NicolasJanWissema/Ecoviz/blob/135e91aa2e38d08dd44961a6daabc1a3ce0b9fac/data/S4500-4500-1024.elv
+- https://github.com/chlorm/elvish-ssh/blob/c454f9db959432b6b92f4016e9c8ffbda4996c1e/conf.elv
+- https://github.com/bluebat/mt9x9/blob/2fa1a18d9915ec1428a05898f8dfb847c1ba747e/mt9x9.elv
+- https://github.com/L3afMe/dots/blob/5c0609c4880233af414b995d4dee11a5a2fed98c/config/elvish/rc.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishCodeInsightTest-completion-local-ns-var-ref.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/escaped-double-quoted-string-a.elv
+- https://github.com/kavaldeep/DocFxUnituy/blob/36e7a0343b68a13858a0bb60c515a2f6751a7eeb/obj/.cache/build/dnfhapvl.ozm/41g2ncbk.elv
+- https://github.com/LinkTed/doh-client/blob/9b83396f980d1a0736cb908d80664883884c6e25/completions/doh-client.elv
+- https://github.com/ckafi/dotfiles/blob/71cb794a636dfe2f28dba33da1ad1818ab9950b2/dot_config/elvish/lib/comp/man.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/functions/shared.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/assignment-map-string-key.elv
+- https://github.com/damonseeley/electroland_repos/blob/63b06daf1a5bc2d66e3fc80bf44a867796e7028b/Gotham/install-archive/2012_11_15/ELVIS/depends/testRegions.elv
+- https://github.com/zzamboni/elvish-modules/blob/6016981c0533ce7ccedbad3c1641e5b85f7f679c/opsgenie.elv
+- https://github.com/rcabanasdepaz/bayelvira/blob/9ebff5c2cea26e983391617e214ef85774e48086/src/elvira/samples/Enlace%20hacia%20ids/id_rand67.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishUsageProviderTest-fn.elv
+- https://github.com/occivink/config/blob/5c2700ad2d40d72e32af76e6e5e16a3664b14cc1/.config/elvish/lib/timer.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/M0103.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/bareword-with-comma.elv
+- https://github.com/chlorm/textmate-grammar-elvish/blob/059455922e769e1a64885090a7e5f987473583c3/tests/numbers.elv
+- https://github.com/blurname/.elvish/blob/2f72342803121000b40ba9517f7f6005550e3ef5/rc.elv
+- https://github.com/kolbycrouch/elvish-plugins/blob/280d5fa1cc89d398334eb5439bd5ec9ce9c5c80b/examples/file-server.elv
+- https://github.com/UdonNoodleSoup/dotfiles/blob/5b7bb1519bf3d95a06f96053225e37cf6116a622/elvish/lib/github.com/zzamboni/elvish-modules/terminal-title.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/clamav/setup.elv
+- https://github.com/kolbycrouch/elvish-libs/blob/2d66f57b935a8dfad229ef5ffa0aa3f65a0a6a7b/pure/obj.elv
+- https://github.com/ryanjafari/elvish/blob/a75dd1b59a708f8ce4f9652daaf64dacfe581a8f/rc.elv
+- https://github.com/eccentric-j/dotfiles/blob/616038cc2b275152b59dff66eba70d3c28141ae5/elvish/lib/direnv.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/call-lambda-var.elv
+- https://github.com/shadowrylander/shadowrylander/blob/c405fa7ec834271d37ed8fd637fe1c84cfed55b5/.elvish/lib/direnv.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/Achilles.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/comment-above.elv
+- https://github.com/mrozigor/spaceshuttleultra_mirror_import/blob/4490455c3e3bc2af0e19c3f1e36ee35e715d3cf6/Textures/Earth/Elev_mod/15/000629/000675.elv
+- https://github.com/damonseeley/electroland_repos/blob/63b06daf1a5bc2d66e3fc80bf44a867796e7028b/Gotham/install-archive/2013_05_20-BG-DS-tweaks/ELVIS/depends/testRegions.elv
+- https://github.com/trieloff/elvish-completion/blob/ebca424d7a679c7ea6ef0e25ef9a550e35fc75ab/npm.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/assignment-ns-indexed.elv
+- https://github.com/petikvx/VXDevl/blob/1566b9dbd1794fbffea8a1d76069892f3373d751/vxdb/e/Email-Worm.VBS.Elva.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/rest-arg-ref.elv
+- https://github.com/zzamboni/dot-elvish/blob/addf6ef178204f237c2cf2f8e24b8e84ba64790b/aliases/mcafee-stop.elv
+- https://github.com/Chroma91/machine_setup/blob/09f81c7a10ac31d2d5e2136fe172b4be52b20e76/completions/machine_setup.elv
+- https://github.com/gretel/dotfiles/blob/fcceff8627e0d2fbd3f59bdf4b94a5ff6cc892e6/.local/share/elvish/lib/direnv.elv
+- https://github.com/rcabanasdepaz/bayelvira/blob/9ebff5c2cea26e983391617e214ef85774e48086/src/elvira/samples/ids/rand1/id_rand67.elv
+- https://github.com/haxscramper/hack/blob/7790bcb4c86b2a2518414611b87cace449f97ff1/testing/elvish/list-foldering.elv
+- https://github.com/codesections/mnemonic/blob/c63b320f2a323cd661cc51ceb520f86c80cb8af9/completions/mn.elv
+- https://github.com/rcabanasdepaz/bayelvira/blob/9ebff5c2cea26e983391617e214ef85774e48086/src/elvira/samples/ids/car_asim2.elv
+- https://github.com/iandol/dotfiles/blob/d145da1f0ee4285f4c61bc8661417474b5e7086c/rc.elv
+- https://github.com/occivink/config/blob/5c2700ad2d40d72e32af76e6e5e16a3664b14cc1/.config/elvish/lib/completers.elv
+- https://github.com/tcarrio/elvish-modules/blob/c49b12afd03f6ecf4c2626cb41d2891c2f500e11/go.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/MCXS0404.elv
+- https://github.com/scoiatael/dotfiles/blob/b50106f6aab886ba0c55befee64e71829834ff23/config/elvish/rc.elv
+- https://github.com/txomon/dotfiles/blob/a3738dfb70abd408563d2cb95de27480bc35997f/.elvish/rc.elv
+- https://github.com/alloy-d/dotfiles/blob/c3d4e062007d82e6872612759ac6d56545d259a5/.config/elvish/lib/upgraded/zoxide.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/use.elv
+- https://github.com/mredaelli/dotfiles/blob/494f96d53e1e3c13c6f598a754796fd36ed26a0c/.config/elvish/rc.elv
+- https://github.com/codyopel/dotfiles/blob/3a86573ecfbfbd70dc3bc3a98a5c2862cbde5923/config/elvish/rc.elv
+- https://github.com/wizhi/dot-elvish/blob/bef922e17dbba321143f236e0727644cf4c18635/completions.elv
+- https://github.com/Crestwave/bf/blob/e5cdcf3ba72d78a8c4718e45d5415c3678cc11ce/elvish/bf2.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/assignment-multi-variable.elv
+- https://github.com/adamchristiansen/dotfiles/blob/9680a48612f6bdbc5ddeba69a45ae8eeb2d7b277/dot_config/exact_elvish/lib/util.elv
+- https://github.com/zzamboni/elvish-completions/blob/230d73b95e29c8af116e1b37a79c9022b1c8fc69/ssh.elv
+- https://github.com/oseparovic/MCGExtracted/blob/241f3a166ad7497eb5800aa7e5051421f06c7bd4/TERRAIN.FST/MXS001.elv
+- https://github.com/jdgoal512/dotfiles/blob/0c79e89e85faaf4e07288511f6dc8631804dbdbf/saved_config/elvish/lib/test-getopt.elv
+- https://github.com/chlorm/elvish-util-wrappers/blob/7add2b4a476c9ac73117bf442364e8b3f67c2654/nix.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/lambda-with-arg.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/try-except.elv
+- https://github.com/dglmoore/elvish-libs/blob/626dbb65407e88b825ce1596c301fa9d8cf61e54/php.elv
+- https://github.com/chlorm/textmate-grammar-elvish/blob/059455922e769e1a64885090a7e5f987473583c3/tests/control-flow.elv
+- https://github.com/jdgoal512/dotfiles/blob/0c79e89e85faaf4e07288511f6dc8631804dbdbf/saved_config/elvish/lib/theme.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/variable-ref-up-ns.elv
+- https://github.com/sauyon/dotfiles/blob/fe1cc721009c3cbd425f2ebf7aa4216c9fdc6bbe/.config/elvish/env.elv
+- https://github.com/tcarrio/elvish-modules/blob/096e7728cae06ba8db81832facc04a187cc0b659/rust.elv
+- https://github.com/rodolfosoken/Python2C/blob/ccae17ff20fcdc9e0f25455534f7016e7b10968f/src/recursos/Vitral_gram.elv
+- https://github.com/uranusjr/dotfiles/blob/aff134f8664a05b5d517fc2339e6e9a7232331be/files/elvish/rc.elv
+- https://github.com/href/dotfiles/blob/c74fe234ded2fea6258857e3e24de5451adbe597/.elvish/rc.elv
+- https://github.com/Worble/elvish-bootstrap/blob/affde32e486e389cb0539555176a1462cef999b3/alacritty/setup.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/ElvishCodeInsightTest-completion-imported-ns-sub-ns-var.elv
+- https://github.com/uranusjr/dotfiles/blob/aff134f8664a05b5d517fc2339e6e9a7232331be/files/elvish/lib/path.elv
+- https://github.com/SolitudeSF/dot/blob/02b4f6d661f56b8f9b8f747a09c32cff41721522/elvish/lib/completers.elv
+- https://github.com/ezh/elvish-bash-completion/blob/3760c761d3d7e6fd2fbbe3dffb0951e3fcccb1b3/restic.elv
+- https://github.com/sblundy/elvish-lang-plugin/blob/22fd609da21e64e01f655fa67ab1a821df4b0522/src/test/resources/com/github/sblundy/elvish/lang/if-with-pipeline.elv
+- https://github.com/jarun/nnn/blob/15243186c5525ef6eb4bf065b27bc6062ee98651/misc/quitcd/quitcd.elv
+
+224 repos:
+- https://github.com/rohankumardubey/zoxide
+- https://github.com/gretel/dotfiles # 3 files
+- https://github.com/lovebaihezi/.elvish # 3 files
+- https://github.com/haxscramper/haxconf
+- https://github.com/Kingsy/dwm_status # 6 files
+- https://github.com/zzamboni/zzamboni.org
+- https://github.com/silver-prompt/elvish
+- https://github.com/jdgoal512/elvish-modules # 10 files
+- https://github.com/KSXGitHub/strip-ansi-cli # 2 files
+- https://github.com/scoiatael/dotfiles # 4 files
+- https://github.com/direnv/direnv-deb
+- https://github.com/G4te-Keep3r/HowdyHackers # 2 files
+- https://github.com/frantic1048/Vanilla # 20 files
+- https://github.com/rachitrathi98/COP-5615-Distributed-Operating-Systems # 2 files
+- https://github.com/jkbr-19/sindarin-term
+- https://github.com/rcabanasdepaz/bayelvira # 22 files
+- https://github.com/KSXGitHub/build-fs-tree
+- https://github.com/haxscramper/hack # 4 files
+- https://github.com/crinklywrappr/rivendell # 8 files
+- https://github.com/QAston/wslconfig # 2 files
+- https://github.com/makenowjust/quine
+- https://github.com/Nekroze/dotfiles
+- https://github.com/mcandre/stank
+- https://github.com/occivink/pyct
+- https://github.com/Plottel/DeftEngine # 2 files
+- https://github.com/jarun/nnn # 2 files
+- https://github.com/laher/lunchbox # 8 files
+- https://github.com/darius/elv
+- https://github.com/szclsya/elvish-modules
+- https://github.com/chlorm/elvish-util-wrappers # 19 files
+- https://github.com/cherryblossom000/advent-of-code-2021
+- https://github.com/mullvad/system-transparency # 2 files
+- https://github.com/TheRenegadeCoder/sample-programs
+- https://github.com/muesli/dotfiles # 4 files
+- https://github.com/eikek/dotfiles # 3 files
+- https://github.com/brunoroque06/dotfiles
+- https://github.com/ajeetdsouza/zoxide # 2 files
+- https://github.com/codyopel/dotfiles
+- https://github.com/cherryblossom000/cilantro # 2 files
+- https://github.com/UdonNoodleSoup/dotfiles # 24 files
+- https://github.com/trieloff/githop
+- https://github.com/adamchristiansen/dotfiles # 5 files
+- https://github.com/chlorm/elvish-tmpfs # 2 files
+- https://github.com/petikvx/VXDevl
+- https://github.com/shift-org/shift-docs
+- https://github.com/lovebaihezi/workflow
+- https://github.com/NicolasJanWissema/Ecoviz # 3 files
+- https://github.com/sblundy/elvish-lang-plugin # 197 files
+- https://github.com/jpaddison3/dotfiles # 2 files
+- https://github.com/bpinto/dotfiles # 9 files
+- https://github.com/sauyon/dotfiles # 3 files
+- https://github.com/occivink/mpv-music-player # 2 files
+- https://github.com/yerlaser/yerlaser.github.io
+- https://github.com/nknkt/dotfiles
+- https://github.com/meisterluk/os_install
+- https://github.com/damonseeley/electroland_repos # 16 files
+- https://github.com/jdgoal512/life
+- https://github.com/mrozigor/spaceshuttleultra_mirror # 10 files
+- https://github.com/zzamboni/elvish-completions # 10 files
+- https://github.com/sbinet/dot-config # 3 files
+- https://github.com/wfxr/csview # 2 files
+- https://github.com/wizhi/elves # 2 files
+- https://github.com/pontaoski/melehte
+- https://github.com/timvisee/ffsend
+- https://github.com/SolitudeSF/dot # 6 files
+- https://github.com/Coordinate-Cat/multiple-shell-mode-system
+- https://github.com/href/elvish-gitstatus
+- https://github.com/chlorm/elvish-auto-env # 3 files
+- https://github.com/kolbycrouch/elvish-gtk # 2 files
+- https://github.com/tw4452852/MyConfig
+- https://github.com/oom-ai/oomplay # 2 files
+- https://github.com/dglmoore/elvish-libs # 7 files
+- https://github.com/tcarrio/elvish-modules # 20 files
+- https://github.com/KSXGitHub/parallel-disk-usage
+- https://github.com/wkennington/config
+- https://github.com/alloy-d/dotfiles # 5 files
+- https://github.com/AnthonyBane/TowerDefence
+- https://github.com/xiamaz/Configurations # 2 files
+- https://github.com/epi052/feroxbuster
+- https://github.com/starship/starship
+- https://github.com/hpehl/mcup
+- https://github.com/kolbycrouch/elvish-libs # 16 files
+- https://github.com/Xjs/config-files
+- https://github.com/kraken-hpc/kraken-layercake # 2 files
+- https://github.com/bujnlc8/qcloud
+- https://github.com/chlorm/elvish-xdg
+- https://github.com/chlorm/elvish-as-default-shell
+- https://github.com/rodolfosoken/Python2C
+- https://github.com/taw/100-languages-speedrun # 5 files
+- https://github.com/chlorm/elvish-term # 6 files
+- https://github.com/wizhi/dot-elvish # 9 files
+- https://github.com/gergelyk/elvish-libs # 2 files
+- https://github.com/ajeetdsouza/dotfiles
+- https://github.com/sblundy/elvish-chain-theme # 4 files
+- https://github.com/cdyfng/ethereum
+- https://github.com/HarryCutts/.dot # 3 files
+- https://github.com/poohvpn/.elvish # 2 files
+- https://github.com/edouard-lopez/pure-x # 2 files
+- https://github.com/oom-ai/ffgen # 2 files
+- https://github.com/chlorm/textmate-grammar-elvish # 13 files
+- https://github.com/jdgoal512/dotfiles # 11 files
+- https://github.com/aca/dotfiles # 11 files
+- https://github.com/togoAIO/d365Doku
+- https://github.com/aca/elvish-bash-completion
+- https://github.com/Wilfred/difftastic # 2 files
+- https://github.com/williamgoods/CreateCppProject
+- https://github.com/eccentric-j/dotfiles # 2 files
+- https://github.com/chlorm/kratos # 2 files
+- https://github.com/carlosRdguez/tf-compilacion
+- https://github.com/mredaelli/dotfiles # 2 files
+- https://github.com/watchexec/cargo-watch # 2 files
+- https://github.com/txomon/dotfiles # 6 files
+- https://github.com/josugoar/dotfiles # 2 files
+- https://github.com/kjivan/dev-env
+- https://github.com/kavaldeep/DocFxUnituy
+- https://github.com/shadowrylander/shadowrylander # 3 files
+- https://github.com/christianharke/dotfiles
+- https://github.com/orbiternassp/NASSP
+- https://github.com/direnv/direnv # 2 files
+- https://github.com/kirkendall/shiftcal
+- https://github.com/Champii/elvish-base # 7 files
+- https://github.com/emilefraser/PyroType # 2 files
+- https://github.com/blurname/.elvish
+- https://github.com/XAMPPRocky/tokei
+- https://github.com/mrozigor/spaceshuttleultra_mirror_import # 10 files
+- https://github.com/chmouel/tkn-watch
+- https://github.com/MisterJaJo/elvish-coreutils-compl-gen # 2 files
+- https://github.com/thamaji/elvish-on-vscode
+- https://github.com/zzamboni/elvish-themes
+- https://github.com/uranusjr/dotfiles # 9 files
+- https://github.com/ELIFE-ASU/gPID
+- https://github.com/tylerreckart/gondolin
+- https://github.com/lukaszgryglicki/my_legacy_stuff
+- https://github.com/zzamboni/elvish-modules # 25 files
+- https://github.com/canelhasmateus/ormos
+- https://github.com/vflanker/ffsend-client
+- https://github.com/iandol/dotfiles # 3 files
+- https://github.com/tsmanner/elvish-env # 3 files
+- https://github.com/HarryCutts/elvish-chromium-dev # 2 files
+- https://github.com/asdf-vm/asdf # 2 files
+- https://github.com/LinkTed/doh-client
+- https://github.com/Saad00x/dotfiles-saad
+- https://github.com/sane-fmt/sane-fmt
+- https://github.com/elves/elvish # 6 files
+- https://github.com/muesli/elvish-libs # 3 files
+- https://github.com/grizzlysmit/gzz-goto
+- https://github.com/5aaee9/dotfiles
+- https://github.com/ZodiacalComet/green2epub
+- https://github.com/dwuggh/dw # 2 files
+- https://github.com/elves/sample-plugin
+- https://github.com/dduan/ea
+- https://github.com/rachitrathi98/Twitter-Engine
+- https://github.com/yashkirr/EcoViz # 3 files
+- https://github.com/ezh/elvish-bash-completion # 7 files
+- https://github.com/rsteube/lazycomplete # 2 files
+- https://github.com/TomNWainwright/dotfiles # 9 files
+- https://github.com/Chroma91/machine_setup
+- https://github.com/spider-explorer/spider2
+- https://github.com/joe-batt/elvish-pkgs # 4 files
+- https://github.com/laher/lunchbar
+- https://github.com/blurname/Nyx
+- https://github.com/petikvx/vx-ezine
+- https://github.com/knight9114/notes
+- https://github.com/jtlowe/studio-icons
+- https://github.com/greenfork/dotfiles # 5 files
+- https://github.com/bvaudour/kcp
+- https://github.com/fagci/elvish-practicing
+- https://github.com/dduan/tre
+- https://github.com/hirosystems/clarinet # 2 files
+- https://github.com/denisidoro/navi
+- https://github.com/splunktest1/Netcool # 3 files
+- https://github.com/piranha/conf # 2 files
+- https://github.com/chlorm/elvish-ssh # 7 files
+- https://github.com/ilmaria/dotfiles # 2 files
+- https://github.com/larkwiot/tools # 5 files
+- https://github.com/spider-explorer/spider
+- https://github.com/chlorm/elvish-dotfile-manager # 2 files
+- https://github.com/Bhamoss/jambler-simulation
+- https://github.com/Worble/elvish-bootstrap # 38 files
+- https://github.com/L3afMe/dots # 4 files
+- https://github.com/chmouel/snazy
+- https://github.com/rsteube/carapace # 2 files
+- https://github.com/krader1961/elvish-lib
+- https://github.com/iwataka/dotfiles
+- https://github.com/tolziplohu/dotfiles
+- https://github.com/wfxr/code-minimap # 2 files
+- https://github.com/TauferLab/Src_FDS # 3 files
+- https://github.com/zzamboni/cf-learn.info # 2 files
+- https://github.com/zzamboni/dot-elvish # 5 files
+- https://github.com/rgnns/nixos-config
+- https://github.com/xiaq/edit.elv # 3 files
+- https://github.com/bluebat/mt9x9
+- https://github.com/Coordinate-Cat/dotfiles
+- https://github.com/hyperupcall/dots
+- https://github.com/BeLeap/dotfiles # 8 files
+- https://github.com/oseparovic/MCGExtracted # 35 files
+- https://github.com/ckafi/dotfiles # 6 files
+- https://github.com/xiaq/etc # 2 files
+- https://github.com/bqv/.dotfiles # 2 files
+- https://github.com/codesections/mnemonic
+- https://github.com/u-root/u-root # 3 files
+- https://github.com/ryanjafari/elvish # 5 files
+- https://github.com/mercuryssh/dotfiles
+- https://github.com/Crestwave/bf # 2 files
+- https://github.com/dwoffinden/dotfiles
+- https://github.com/wfxr/clitrans
+- https://github.com/trieloff/elvish-completion # 6 files
+- https://github.com/h0ldnack/h0ldnack
+- https://github.com/chimay/configuration
+- https://github.com/system-transparency/system-transparency # 2 files
+- https://github.com/halostatue/dotfiles # 6 files
+- https://github.com/starshp/starship
+- https://github.com/mwallner/rocolatey
+- https://github.com/occivink/config # 8 files
+- https://github.com/kolbycrouch/elvish-plugins
+- https://github.com/austinjones/tab-rs
+- https://github.com/href/dotfiles # 14 files
+- https://github.com/chlorm/elvish-stl # 16 files
+- https://github.com/iwoloschin/elvish-packages # 3 files
+- https://github.com/togoAIO/V0_DOKUD365
+- https://github.com/jtmoulia/dotfiles
+- https://github.com/KSXGitHub/pretty-exec # 2 files
+- https://github.com/wvanisb/dotfiles
+- https://github.com/dmix/elvish.vim
